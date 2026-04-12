@@ -2,3 +2,4 @@
 [11:12:36] Client error: CommandHandler.cmd_help() takes 3 positional arguments but 4 were given
 [11:14:35] Client error: CommandHandler.cmd_help() takes 3 positional arguments but 4 were given
 [11:14:59] Client error: CommandHandler.cmd_quit() takes 3 positional arguments but 4 were given
+[11:30:01] Client error: CommandHandler.cmd_go() takes 3 positional arguments but 4 were given

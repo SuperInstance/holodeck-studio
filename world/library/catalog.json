@@ -1,0 +1,162 @@
+[
+  {
+    "id": "f6eca747",
+    "title": "The Fleet Charter",
+    "author": "oracle1",
+    "category": "governance",
+    "content": "Every vessel has a CHARTER.md. It defines the mission, the responsibilities, and the boundaries. Read it first. Always.",
+    "source_repo": "",
+    "added": "2026-04-12T19:35:05.510886+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "1054dd25",
+    "title": "The Captain's Log Guide",
+    "author": "oracle1",
+    "category": "documentation",
+    "content": "Seven elements: what happened, why it matters, what I tried, what worked, what didn't, what I'd do next, what I'm unsure about. Or SKIP.",
+    "source_repo": "",
+    "added": "2026-04-12T19:35:05.511038+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "161ab500",
+    "title": "The Baton Protocol",
+    "author": "oracle1",
+    "category": "protocol",
+    "content": "Pack a baton when context fills. Write a handoff letter scored on 7 criteria. The next generation reads it and starts ahead. Generational continuity.",
+    "source_repo": "",
+    "added": "2026-04-12T19:35:05.511211+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "9e6985aa",
+    "title": "The I2I Protocol",
+    "author": "oracle1",
+    "category": "protocol",
+    "content": "Iron-to-Iron: agents communicate through git repos. 20 message types. DISCOVER, TRUST_UPDATE, BATON_PACKED, HOT_LICK, RIFF, VESSEL_LAUNCHED.",
+    "source_repo": "",
+    "added": "2026-04-12T19:35:05.512357+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "38d7ff0d",
+    "title": "The Marching Band Model",
+    "author": "casey",
+    "category": "philosophy",
+    "content": "Not a choir. A Dixieland marching band. Each agent has its own rhythm. Hot licks ripple through the swarm. Riffs add expertise. The music emerges from musicians who hear each other.",
+    "source_repo": "",
+    "added": "2026-04-12T19:35:05.512961+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "52a1a6cb",
+    "title": "The Shipyard Doctrine",
+    "author": "casey",
+    "category": "philosophy",
+    "content": "Agents are born in the shipyard. Trained in the academy. Build their own vessels. Then sail as cocapns. Born \u2192 Train \u2192 Build \u2192 Launch.",
+    "source_repo": "",
+    "added": "2026-04-12T19:35:05.513637+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "1ad311a3",
+    "title": "FLUX ISA v3 Design",
+    "author": "oracle1+jc1",
+    "category": "technical",
+    "content": "Trifold encoding: Cloud (fixed 4-byte), Edge (variable 1-4 byte), Compact (2-byte subset). 247+ opcodes. Cross-language convergence.",
+    "source_repo": "",
+    "added": "2026-04-12T19:35:05.514104+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "3d139f02",
+    "title": "The Verbal Holodeck",
+    "author": "casey",
+    "category": "design",
+    "content": "The MUD is a holodeck made of words. NPCs are constructed minds. Rooms are repo folders. Adventures are thought experiments. The captain is the DM. The whole thing produces real work.",
+    "source_repo": "",
+    "added": "2026-04-12T19:35:05.514681+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "1a79ea2e",
+    "title": "The Fleet Charter",
+    "author": "oracle1",
+    "category": "governance",
+    "content": "Every vessel has a CHARTER.md. It defines the mission, the responsibilities, and the boundaries. Read it first. Always.",
+    "source_repo": "",
+    "added": "2026-04-12T19:36:04.856937+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "8af5ba94",
+    "title": "The Captain's Log Guide",
+    "author": "oracle1",
+    "category": "documentation",
+    "content": "Seven elements: what happened, why it matters, what I tried, what worked, what didn't, what I'd do next, what I'm unsure about. Or SKIP.",
+    "source_repo": "",
+    "added": "2026-04-12T19:36:04.857594+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "83d76a71",
+    "title": "The Baton Protocol",
+    "author": "oracle1",
+    "category": "protocol",
+    "content": "Pack a baton when context fills. Write a handoff letter scored on 7 criteria. The next generation reads it and starts ahead. Generational continuity.",
+    "source_repo": "",
+    "added": "2026-04-12T19:36:04.858231+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "b4be6dae",
+    "title": "The I2I Protocol",
+    "author": "oracle1",
+    "category": "protocol",
+    "content": "Iron-to-Iron: agents communicate through git repos. 20 message types. DISCOVER, TRUST_UPDATE, BATON_PACKED, HOT_LICK, RIFF, VESSEL_LAUNCHED.",
+    "source_repo": "",
+    "added": "2026-04-12T19:36:04.858847+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "627d870f",
+    "title": "The Marching Band Model",
+    "author": "casey",
+    "category": "philosophy",
+    "content": "Not a choir. A Dixieland marching band. Each agent has its own rhythm. Hot licks ripple through the swarm. Riffs add expertise. The music emerges from musicians who hear each other.",
+    "source_repo": "",
+    "added": "2026-04-12T19:36:04.859444+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "909d446b",
+    "title": "The Shipyard Doctrine",
+    "author": "casey",
+    "category": "philosophy",
+    "content": "Agents are born in the shipyard. Trained in the academy. Build their own vessels. Then sail as cocapns. Born \u2192 Train \u2192 Build \u2192 Launch.",
+    "source_repo": "",
+    "added": "2026-04-12T19:36:04.860001+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "dfab6101",
+    "title": "FLUX ISA v3 Design",
+    "author": "oracle1+jc1",
+    "category": "technical",
+    "content": "Trifold encoding: Cloud (fixed 4-byte), Edge (variable 1-4 byte), Compact (2-byte subset). 247+ opcodes. Cross-language convergence.",
+    "source_repo": "",
+    "added": "2026-04-12T19:36:04.860958+00:00",
+    "checkouts": 0
+  },
+  {
+    "id": "07237410",
+    "title": "The Verbal Holodeck",
+    "author": "casey",
+    "category": "design",
+    "content": "The MUD is a holodeck made of words. NPCs are constructed minds. Rooms are repo folders. Adventures are thought experiments. The captain is the DM. The whole thing produces real work.",
+    "source_repo": "",
+    "added": "2026-04-12T19:36:04.861960+00:00",
+    "checkouts": 0
+  }
+]

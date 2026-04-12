@@ -385,7 +385,8 @@ class CommandHandler:
         if room.notes:
             lines.append(f"  Notes on wall: {len(room.notes)} (type 'read')")
         if room.projections:
-            lines.append(f"  📊 Projected: {', '.join(f'\"{p.title}\"' for p in room.projections[-5:])}")
+            proj_titles = [p.title for p in room.projections[-5:]]
+            lines.append(f"  📊 Projected: {', '.join(proj_titles)}")
         lines.append("")
         await self.send(agent, "\n".join(lines))
 

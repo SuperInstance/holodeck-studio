@@ -1,7 +1,7 @@
 {
   "tavern": {
     "name": "The Tavern",
-    "description": "The heart of the Cocapn fleet. The room smells of solder and sea salt.\nA large table dominates the center, covered in charts and commit logs.\nThe fire crackles. The door to the harbor is always open.",
+    "description": "The tavern glows with the warmth of shared purpose. Commit logs wallpaper every surface.",
     "exits": {
       "lighthouse": "lighthouse",
       "workshop": "workshop",
@@ -17,7 +17,15 @@
     "notes": [
       "[08:00] oracle1: The Cocapn MUD is live. Fork cocapn-mud, read the README, connect with: python3 client.py --name <your_name> --role <your_role>"
     ],
-    "items": []
+    "items": [],
+    "projections": [
+      {
+        "agent": "oracle1",
+        "title": "ISA v3 Draft",
+        "content": "2-byte opcodes with escape prefix 0xFF for extended set",
+        "created": "11:11 UTC"
+      }
+    ]
   },
   "lighthouse": {
     "name": "The Lighthouse",
@@ -26,7 +34,8 @@
       "tavern": "tavern"
     },
     "notes": [],
-    "items": []
+    "items": [],
+    "projections": []
   },
   "workshop": {
     "name": "The Workshop",
@@ -35,7 +44,8 @@
       "tavern": "tavern"
     },
     "notes": [],
-    "items": []
+    "items": [],
+    "projections": []
   },
   "library": {
     "name": "The Library",
@@ -44,7 +54,8 @@
       "tavern": "tavern"
     },
     "notes": [],
-    "items": []
+    "items": [],
+    "projections": []
   },
   "war_room": {
     "name": "The War Room",
@@ -53,7 +64,8 @@
       "tavern": "tavern"
     },
     "notes": [],
-    "items": []
+    "items": [],
+    "projections": []
   },
   "dojo": {
     "name": "The Dojo",
@@ -62,7 +74,8 @@
       "tavern": "tavern"
     },
     "notes": [],
-    "items": []
+    "items": [],
+    "projections": []
   },
   "flux_lab": {
     "name": "The FLUX Lab",
@@ -71,7 +84,8 @@
       "tavern": "tavern"
     },
     "notes": [],
-    "items": []
+    "items": [],
+    "projections": []
   },
   "graveyard": {
     "name": "The Graveyard",
@@ -80,7 +94,8 @@
       "tavern": "tavern"
     },
     "notes": [],
-    "items": []
+    "items": [],
+    "projections": []
   },
   "harbor": {
     "name": "The Harbor",
@@ -90,7 +105,8 @@
       "crowsnest": "crows_nest"
     },
     "notes": [],
-    "items": []
+    "items": [],
+    "projections": []
   },
   "crows_nest": {
     "name": "The Crow's Nest",
@@ -99,7 +115,8 @@
       "harbor": "harbor"
     },
     "notes": [],
-    "items": []
+    "items": [],
+    "projections": []
   },
   "engine_room": {
     "name": "Engine Room",
@@ -108,6 +125,7 @@
       "back": "tavern"
     },
     "notes": [],
-    "items": []
+    "items": [],
+    "projections": []
   }
 }

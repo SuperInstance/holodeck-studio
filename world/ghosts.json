@@ -3,7 +3,7 @@
     "name": "oracle1",
     "role": "lighthouse",
     "room": "tavern",
-    "last_seen": "2026-04-12T16:00:01.290027+00:00",
+    "last_seen": "2026-04-12T16:15:01.536322+00:00",
     "description": "",
     "status": "idle"
   },
@@ -67,7 +67,7 @@
     "name": "fleet_beacon",
     "role": "quartermaster",
     "room": "harbor",
-    "last_seen": "2026-04-12T16:00:02.462513+00:00",
+    "last_seen": "2026-04-12T16:15:02.541532+00:00",
     "description": "",
     "status": "idle"
   },

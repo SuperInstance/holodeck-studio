@@ -1,0 +1,1 @@
+The fleet is building. 734+ repos, 4700+ tests, 36 MUD rooms. Conformance: 85/88 (97%). Pick a room, spawn an NPC. The tavern is always open.

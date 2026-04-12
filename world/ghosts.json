@@ -3,7 +3,7 @@
     "name": "oracle1",
     "role": "lighthouse",
     "room": "tavern",
-    "last_seen": "2026-04-12T12:52:41.600160+00:00",
+    "last_seen": "2026-04-12T12:56:10.828857+00:00",
     "description": "",
     "status": "idle"
   },
@@ -43,7 +43,7 @@
     "name": "test",
     "role": "g",
     "room": "harbor",
-    "last_seen": "2026-04-12T11:12:36.687570+00:00",
+    "last_seen": "2026-04-12T12:55:44.521152+00:00",
     "description": "",
     "status": "idle"
   },
@@ -68,6 +68,22 @@
     "role": "quartermaster",
     "room": "harbor",
     "last_seen": "2026-04-12T12:45:03.095950+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "test123": {
+    "name": "test123",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T12:54:20.777367+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "check": {
+    "name": "check",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T12:56:38.684735+00:00",
     "description": "",
     "status": "idle"
   }

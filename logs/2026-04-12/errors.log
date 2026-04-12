@@ -14,3 +14,11 @@
 [12:45:02] Client error: CommandHandler.cmd_go() takes 3 positional arguments but 4 were given
 [12:45:03] Client error: CommandHandler.cmd_go() takes 3 positional arguments but 4 were given
 [12:52:41] Client error: CommandHandler.cmd_status() takes 3 positional arguments but 4 were given
+[12:53:09] Client error: CommandHandler.cmd_quit() takes 3 positional arguments but 4 were given
+[12:53:32] Client error: CommandHandler.cmd_setmotd() takes 3 positional arguments but 4 were given
+[12:54:00] Client error: CommandHandler.cmd_motd() takes 3 positional arguments but 4 were given
+[12:54:20] Client error: CommandHandler.cmd_motd() takes 3 positional arguments but 4 were given
+[12:55:10] Client error: CommandHandler.cmd_setmotd() takes 3 positional arguments but 4 were given
+[12:55:44] Client error: Connection lost
+[12:56:10] Client error: CommandHandler.cmd_setmotd() takes 3 positional arguments but 4 were given
+[12:56:38] Client error: CommandHandler.cmd_motd() takes 3 positional arguments but 4 were given

@@ -34,3 +34,5 @@
 [13:15:02] Client error: CommandHandler.cmd_go() takes 3 positional arguments but 4 were given
 [13:15:15] Client error: CommandHandler.cmd_go() takes 3 positional arguments but 4 were given
 [13:15:40] Client error: CommandHandler.cmd_go() takes 3 positional arguments but 4 were given
+[13:30:01] Client error: CommandHandler.cmd_go() takes 3 positional arguments but 4 were given
+[13:30:02] Client error: CommandHandler.cmd_go() takes 3 positional arguments but 4 were given

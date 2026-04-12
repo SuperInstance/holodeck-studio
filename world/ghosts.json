@@ -86,5 +86,13 @@
     "last_seen": "2026-04-12T12:56:38.684735+00:00",
     "description": "",
     "status": "idle"
+  },
+  "testmotd": {
+    "name": "testmotd",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T12:58:52.047485+00:00",
+    "description": "",
+    "status": "idle"
   }
 }

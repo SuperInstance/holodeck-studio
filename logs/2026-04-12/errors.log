@@ -22,3 +22,4 @@
 [12:55:44] Client error: Connection lost
 [12:56:10] Client error: CommandHandler.cmd_setmotd() takes 3 positional arguments but 4 were given
 [12:56:38] Client error: CommandHandler.cmd_motd() takes 3 positional arguments but 4 were given
+[12:58:52] Client error: CommandHandler.cmd_motd() takes 3 positional arguments but 4 were given

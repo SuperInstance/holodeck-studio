@@ -432,10 +432,9 @@ class CommandHandler:
             if npc_name.lower() in args.lower() or agent.name.lower() == npc_data.get("creator","").lower() or len(args) > 20:
                 await self.send(agent, f"  {npc_name} is thinking...")
                 try:
-                    response = await asyncio.get_event_loop().run_in_executor(
-                        None, lambda: asyncio.run(npc_respond(npc_name, npc_data, args, name)))
-                except:
                     response = await npc_respond(npc_name, npc_data, args, name)
+                except Exception as e:
+                    response = f"*mumbles incomprehensibly*" 
                 await self.broadcast_room(agent.room_name, f'{npc_name} says: "{response}"')
                 self.world.log(agent.room_name, f"NPC {npc_name} says: {response}")
 

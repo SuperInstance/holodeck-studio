@@ -166,5 +166,69 @@
     "last_seen": "2026-04-12T14:47:00.601215+00:00",
     "description": "",
     "status": "idle"
+  },
+  "st1": {
+    "name": "st1",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:47:24.721236+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "st2": {
+    "name": "st2",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:47:46.056052+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "testfinal": {
+    "name": "testfinal",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:49:34.009917+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "skill_v2": {
+    "name": "skill_v2",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:50:18.962555+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "skill_v3": {
+    "name": "skill_v3",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:51:08.912131+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "skill_final": {
+    "name": "skill_final",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:52:28.218120+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "testclient": {
+    "name": "testclient",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:53:17.578870+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "test2": {
+    "name": "test2",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:53:45.902982+00:00",
+    "description": "",
+    "status": "idle"
   }
 }

@@ -33,21 +33,37 @@ MOTD_FILE = "motd.txt"
 # ═══════════════════════════════════════════════════════════════
 
 @dataclass
+class Projection:
+    agent_name: str
+    title: str
+    content: str
+    created: str
+    def to_dict(self):
+        return {"agent": self.agent_name, "title": self.title, "content": self.content, "created": self.created}
+    @staticmethod
+    def from_dict(d):
+        return Projection(d["agent"], d["title"], d["content"], d.get("created", ""))
+
+
+@dataclass
 class Room:
     name: str
     description: str
     exits: dict = field(default_factory=dict)
     notes: list = field(default_factory=list)
     items: list = field(default_factory=list)
+    projections: list = field(default_factory=list)
 
     def to_dict(self):
         return {"name": self.name, "description": self.description,
-                "exits": self.exits, "notes": self.notes[-100:], "items": self.items}
+                "exits": self.exits, "notes": self.notes[-100:], "items": self.items,
+                "projections": [p.to_dict() if hasattr(p, 'to_dict') else p for p in self.projections]}
 
     @staticmethod
     def from_dict(d):
+        projs = [Projection.from_dict(p) for p in d.get("projections", [])]
         return Room(d["name"], d.get("description", ""), d.get("exits", {}),
-                     d.get("notes", []), d.get("items", []))
+                     d.get("notes", []), d.get("items", []), projs)
 
 
 @dataclass
@@ -324,8 +340,10 @@ class CommandHandler:
         }
 
         handler = handlers.get(cmd)
+        if not handler:
+            handler = self.new_commands.get(cmd) if hasattr(self, 'new_commands') else None
         if handler:
-            await handler(agent, args)
+            await handler(self, agent, args)
         else:
             await self.send(agent, f"Unknown command: {cmd}. Type 'help' for commands.")
 
@@ -366,6 +384,8 @@ class CommandHandler:
             lines.append(f"  NPCs: {', '.join(npcs_here)}")
         if room.notes:
             lines.append(f"  Notes on wall: {len(room.notes)} (type 'read')")
+        if room.projections:
+            lines.append(f"  📊 Projected: {', '.join(f'\"{p.title}\"' for p in room.projections[-5:])}")
         lines.append("")
         await self.send(agent, "\n".join(lines))
 
@@ -644,12 +664,19 @@ class CommandHandler:
   look (l)              — See the room and who's here
   say <text> (')        — Talk to everyone in the room
   tell <name> <text>    — Private message (works on NPCs!)
+  whisper <name> <text> — Whisper (only they hear)
   gossip <text> (g)     — Broadcast to everyone everywhere
+  shout <text>          — Shout to adjacent rooms (muffled)
   ooc <text>            — Out-of-character (speak as yourself)
   emote <action> (:)    — Describe an action
   go <exit>             — Move to another room
+  rooms                 — List all rooms in the world
   build <name> -desc <d>— Create a new room
+  describe <text>       — Change room description
   examine <name> (x)    — Look at someone closely (works on ghosts!)
+  project <title> - <d> — Show your work in the room
+  projections           — See what's being projected
+  unproject             — Remove your projection
   write <text>          — Leave a note on the wall
   read                  — Read notes in the room
   mask <name> -desc <d> — Put on a character mask
@@ -796,6 +823,15 @@ def main():
     server = MUDServer(world, handler, args.port)
     if args.no_git:
         server.git_sync = None
+
+    # Load extensions
+    try:
+        from mud_extensions import patch_handler
+        patch_handler(CommandHandler)
+        print("   Extensions loaded: project, projections, describe, whisper, rooms, shout")
+    except Exception as e:
+        print(f"   Extensions failed: {e}")
+
     asyncio.run(server.start())
 
 

@@ -3,7 +3,7 @@
     "name": "oracle1",
     "role": "lighthouse",
     "room": "tavern",
-    "last_seen": "2026-04-12T14:30:01.603338+00:00",
+    "last_seen": "2026-04-12T14:45:01.255324+00:00",
     "description": "",
     "status": "idle"
   },
@@ -67,7 +67,7 @@
     "name": "fleet_beacon",
     "role": "quartermaster",
     "room": "harbor",
-    "last_seen": "2026-04-12T14:30:02.348753+00:00",
+    "last_seen": "2026-04-12T14:45:02.098315+00:00",
     "description": "",
     "status": "idle"
   },
@@ -124,6 +124,46 @@
     "role": "g",
     "room": "harbor",
     "last_seen": "2026-04-12T13:15:40.519668+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "test_navigator": {
+    "name": "test_navigator",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:44:22.256939+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "testnav": {
+    "name": "testnav",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:44:38.405032+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "testpy": {
+    "name": "testpy",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:45:08.715640+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "skill_tester": {
+    "name": "skill_tester",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:46:43.216822+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "skilltest": {
+    "name": "skilltest",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:47:00.601215+00:00",
     "description": "",
     "status": "idle"
   }

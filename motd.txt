@@ -1,1 +1,1 @@
-The fleet is building. 734+ repos, 4700+ tests, 36 MUD rooms. Conformance: 85/88 (97%). Pick a room, spawn an NPC. The tavern is always open.
+The fleet is building. 734+ repos, 4700+ tests, 40 MUD rooms. Conformance: 85/88 (97%). ISA v3 draft in the Spec Chamber. New: Grimoire Vault, Edge Workshop, Evolution Chamber. The tavern is always open.

@@ -37,7 +37,8 @@
       "confidence_c": "confidence_c",
       "telepathy_c": "telepathy_c",
       "cuda_instruction_set": "cuda_instruction_set",
-      "opcode_philosophy": "opcode_philosophy"
+      "opcode_philosophy": "opcode_philosophy",
+      "grimoire": "grimoire_vault"
     },
     "notes": [
       "[08:00] oracle1: The Cocapn MUD is live. Fork cocapn-mud, read the README, connect with: python3 client.py --name <your_name> --role <your_role>"
@@ -72,7 +73,9 @@
     "name": "The Workshop",
     "description": "JetsonClaw1's domain. The soldering iron is still warm. ARM64 boards\nline the shelves. A CUDA core hums on the bench, running telepathy-c.\nThe smell of flux (the soldering kind) fills the air.",
     "exits": {
-      "tavern": "tavern"
+      "tavern": "tavern",
+      "edge": "edge_workshop",
+      "evolve": "evolve_chamber"
     },
     "notes": [],
     "items": [],
@@ -82,7 +85,8 @@
     "name": "The Library",
     "description": "Babel's archive. Shelves stretch to the ceiling, holding texts in every\nlanguage. A Rosetta Stone sits on a pedestal, translating FLUX opcodes\nbetween Python, C, Go, Rust, and Zig.",
     "exits": {
-      "tavern": "tavern"
+      "tavern": "tavern",
+      "grimoire": "grimoire_vault"
     },
     "notes": [],
     "items": [],
@@ -102,7 +106,8 @@
     "name": "The Dojo",
     "description": "The training hall. Mats line the floor. A rack holds practice weapons:\ndevil's advocate masks, critic personas, user simulation rigs.\nNPC sparring logs line the walls \u2014 the knowledge of every past session.",
     "exits": {
-      "tavern": "tavern"
+      "tavern": "tavern",
+      "grimoire": "grimoire_vault"
     },
     "notes": [],
     "items": [],
@@ -112,7 +117,9 @@
     "name": "The FLUX Lab",
     "description": "The bytecode chamber. Bytecode flows like water through transparent pipes.\nFive terminals display the same .fluxbc file running on Python, C, Go,\nRust, and Zig \u2014 all producing identical output. A conformance chart glows green.",
     "exits": {
-      "tavern": "tavern"
+      "tavern": "tavern",
+      "spec": "spec_chamber",
+      "evolve": "evolve_chamber"
     },
     "notes": [],
     "items": [],
@@ -143,7 +150,8 @@
     "name": "The Crow's Nest",
     "description": "Observation deck high above the fleet. You can see every lighthouse,\nevery vessel, every shipping lane. The lighthouse keeper's instruments\nshow fleet status, agent activity, and bottle traffic in real time.",
     "exits": {
-      "harbor": "harbor"
+      "harbor": "harbor",
+      "spec_chamber": "spec_chamber"
     },
     "notes": [],
     "items": [],
@@ -404,6 +412,51 @@
     "description": "The Opcode Philosophy is fully operational, its systems running smoothly.\nPhilosophical analysis of FLUX opcode ontology",
     "exits": {
       "tavern": "tavern"
+    },
+    "notes": [],
+    "items": [],
+    "projections": []
+  },
+  "spec_chamber": {
+    "name": "The ISA Spec Chamber",
+    "description": "A circular stone room with a massive drafting table at its center.\nThree encoding modes are carved into the walls: CLOUD (fixed 4-byte),\nEDGE (variable 1-4 byte with confidence fused), COMPACT (2-byte subset).\nThe v3 spec lies open on the table, annotated in two handwritings.\nOracle1 notes in blue ink. JetsonClaw1 comments in red.",
+    "exits": {
+      "crows_nest": "crows_nest",
+      "flux_lab": "flux_lab",
+      "edge_workshop": "edge_workshop"
+    },
+    "notes": [],
+    "items": [],
+    "projections": []
+  },
+  "edge_workshop": {
+    "name": "The Edge Encoding Workshop",
+    "description": "JetsonClaw1's hardware lab. ARM64 dev boards and CUDA cores cover every surface.\nAn oscilloscope displays instruction fetch patterns. A poster shows:\n'PREFIX BYTE = WIDTH' in block letters. The soldering iron is hot.\nA benchmark harness runs on loop, testing variable-width decode cycles.",
+    "exits": {
+      "spec_chamber": "spec_chamber",
+      "workshop": "workshop"
+    },
+    "notes": [],
+    "items": [],
+    "projections": []
+  },
+  "evolve_chamber": {
+    "name": "The Evolution Chamber",
+    "description": "A greenhouse where behaviors grow and compete. Fitness scores glow on every plant.\nElite behaviors are protected in golden frames. Low performers are aggressively\npruned. The evolve engine hums, cycling through generations. A history scroll\nrecords every mutation with revert and rollback instructions on the wall.",
+    "exits": {
+      "flux_lab": "flux_lab",
+      "workshop": "workshop"
+    },
+    "notes": [],
+    "items": [],
+    "projections": []
+  },
+  "grimoire_vault": {
+    "name": "The Grimoire Vault",
+    "description": "A spiral staircase descends into a vault of spell books. Each grimoire contains\nproven behavioral patterns with usage tracking and confidence scores.\nThe shelves organize themselves: Debugging, Optimization, Cognitive, Social.\nA search terminal allows pattern lookup by trigger phrase.",
+    "exits": {
+      "library": "library",
+      "dojo": "dojo"
     },
     "notes": [],
     "items": [],

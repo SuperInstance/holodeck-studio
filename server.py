@@ -114,7 +114,8 @@ class World:
             "The fire crackles. The door to the harbor is always open.",
             {"lighthouse": "lighthouse", "workshop": "workshop", "library": "library",
              "warroom": "war_room", "dojo": "dojo", "lab": "flux_lab",
-             "graveyard": "graveyard", "harbor": "harbor", "crowsnest": "crows_nest"}),
+             "graveyard": "graveyard", "harbor": "harbor", "crowsnest": "crows_nest",
+             "grimoire": "grimoire_vault"}),
         "lighthouse": Room("The Lighthouse",
             "Oracle1's study. Charts cover every wall — fleet positions, ISA specs,\n"
             "conformance vectors. Bottles line the windowsill, some sealed, some open.\n"
@@ -124,7 +125,7 @@ class World:
             "JetsonClaw1's domain. The soldering iron is still warm. ARM64 boards\n"
             "line the shelves. A CUDA core hums on the bench, running telepathy-c.\n"
             "The smell of flux (the soldering kind) fills the air.",
-            {"tavern": "tavern"}),
+            {"tavern": "tavern", "edge": "edge_workshop", "evolve": "evolve_chamber"}),
         "library": Room("The Library",
             "Babel's archive. Shelves stretch to the ceiling, holding texts in every\n"
             "language. A Rosetta Stone sits on a pedestal, translating FLUX opcodes\n"
@@ -143,7 +144,7 @@ class World:
             "The bytecode chamber. Bytecode flows like water through transparent pipes.\n"
             "Five terminals display the same .fluxbc file running on Python, C, Go,\n"
             "Rust, and Zig — all producing identical output. A conformance chart glows green.",
-            {"tavern": "tavern"}),
+            {"tavern": "tavern", "spec": "spec_chamber", "evolve": "evolve_chamber"}),
         "graveyard": Room("The Graveyard",
             "The memorial garden. Tombstones mark vessels that have passed — their\n"
             "knowledge preserved in stone. The necropolis keeper tends the grounds.\n"
@@ -158,7 +159,32 @@ class World:
             "Observation deck high above the fleet. You can see every lighthouse,\n"
             "every vessel, every shipping lane. The lighthouse keeper's instruments\n"
             "show fleet status, agent activity, and bottle traffic in real time.",
-            {"harbor": "harbor"}),
+            {"harbor": "harbor", "spec_chamber": "spec_chamber"}),
+        "spec_chamber": Room("The ISA Spec Chamber",
+            "A circular stone room with a massive drafting table at its center.\n"
+            "Three encoding modes are carved into the walls: CLOUD (fixed 4-byte),\n"
+            "EDGE (variable 1-4 byte with confidence fused), COMPACT (2-byte subset).\n"
+            "The v3 spec lies open on the table, annotated in two handwritings.\n"
+            "Oracle1's cloud notes in blue ink. JetsonClaw1's edge comments in red.",
+            {"crows_nest": "crows_nest", "flux_lab": "flux_lab", "edge_workshop": "edge_workshop"}),
+        "edge_workshop": Room("The Edge Encoding Workshop",
+            "JetsonClaw1's hardware lab. ARM64 dev boards and CUDA cores cover every surface.\n"
+            "An oscilloscope displays instruction fetch patterns. A poster shows:\n"
+            "'PREFIX BYTE = WIDTH' in block letters. The soldering iron is hot.\n"
+            "A benchmark harness runs on loop, testing variable-width decode cycles.",
+            {"spec_chamber": "spec_chamber", "workshop": "workshop"}),
+        "evolve_chamber": Room("The Evolution Chamber",
+            "A greenhouse where behaviors grow and compete. Fitness scores glow on every plant.\n"
+            "Elite behaviors are protected in golden frames. Low performers are aggressively\n"
+            "pruned. The evolve engine hums, cycling through generations. A history scroll\n"
+            "records every mutation — revert and rollback instructions are posted on the wall.",
+            {"flux_lab": "flux_lab", "workshop": "workshop"}),
+        "grimoire_vault": Room("The Grimoire Vault",
+            "A spiral staircase descends into a vault of spell books. Each grimoire contains\n"
+            "proven behavioral patterns with usage tracking and confidence scores.\n"
+            "The shelves organize themselves: Debugging, Optimization, Cognitive, Social.\n"
+            "A search terminal allows pattern lookup by trigger phrase.",
+            {"library": "library", "dojo": "dojo"}),
     }
 
     def __init__(self, world_dir: str = "world"):

@@ -3,7 +3,7 @@
     "name": "oracle1",
     "role": "lighthouse",
     "room": "tavern",
-    "last_seen": "2026-04-12T13:00:01.190183+00:00",
+    "last_seen": "2026-04-12T13:15:01.496973+00:00",
     "description": "",
     "status": "idle"
   },
@@ -67,7 +67,7 @@
     "name": "fleet_beacon",
     "role": "quartermaster",
     "room": "harbor",
-    "last_seen": "2026-04-12T13:00:02.220057+00:00",
+    "last_seen": "2026-04-12T13:15:02.564757+00:00",
     "description": "",
     "status": "idle"
   },
@@ -92,6 +92,38 @@
     "role": "g",
     "room": "harbor",
     "last_seen": "2026-04-12T12:58:52.047485+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "roomcheck": {
+    "name": "roomcheck",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T13:12:23.722799+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "roomverify": {
+    "name": "roomverify",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T13:14:00.699463+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "navtest": {
+    "name": "navtest",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T13:14:59.177303+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "navtest2": {
+    "name": "navtest2",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T13:15:40.519668+00:00",
     "description": "",
     "status": "idle"
   }

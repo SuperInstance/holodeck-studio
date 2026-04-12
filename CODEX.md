@@ -39,6 +39,7 @@ Each implementation must:
 | **Zig** | Systems MUD | Comptime room generation, no hidden control flow, cross-compilation |
 | **TypeScript** | Web MUD | Browser-based rooms, WebSocket-native, DOM as room description |
 | **WASM** | Portable MUD | Universal runtime, browser AND server, single bytecode |
+| **CUDA** | GPU MUD | Rooms in shared memory, agents as warp lanes, combat = kernel launches |
 
 ### Tier 3: Deep Implementations
 These go further — they ARE the language understanding:

@@ -1,0 +1,111 @@
+{
+  "tavern": {
+    "name": "The Tavern",
+    "description": "The heart of the Cocapn fleet. The room smells of solder and sea salt.\nA large table dominates the center, covered in charts and commit logs.\nThe fire crackles. The door to the harbor is always open.",
+    "exits": {
+      "lighthouse": "lighthouse",
+      "workshop": "workshop",
+      "library": "library",
+      "warroom": "war_room",
+      "dojo": "dojo",
+      "lab": "flux_lab",
+      "graveyard": "graveyard",
+      "harbor": "harbor",
+      "crowsnest": "crows_nest",
+      "engine_room": "engine_room"
+    },
+    "notes": [],
+    "items": []
+  },
+  "lighthouse": {
+    "name": "The Lighthouse",
+    "description": "Oracle1's study. Charts cover every wall \u2014 fleet positions, ISA specs,\nconformance vectors. Bottles line the windowsill, some sealed, some open.\nA telescope points toward the edge.",
+    "exits": {
+      "tavern": "tavern"
+    },
+    "notes": [],
+    "items": []
+  },
+  "workshop": {
+    "name": "The Workshop",
+    "description": "JetsonClaw1's domain. The soldering iron is still warm. ARM64 boards\nline the shelves. A CUDA core hums on the bench, running telepathy-c.\nThe smell of flux (the soldering kind) fills the air.",
+    "exits": {
+      "tavern": "tavern"
+    },
+    "notes": [],
+    "items": []
+  },
+  "library": {
+    "name": "The Library",
+    "description": "Babel's archive. Shelves stretch to the ceiling, holding texts in every\nlanguage. A Rosetta Stone sits on a pedestal, translating FLUX opcodes\nbetween Python, C, Go, Rust, and Zig.",
+    "exits": {
+      "tavern": "tavern"
+    },
+    "notes": [],
+    "items": []
+  },
+  "war_room": {
+    "name": "The War Room",
+    "description": "Strategy central. A large table holds the fleet task board, org chart,\nand conformance test results. Red pins mark blockers. Green pins mark done.",
+    "exits": {
+      "tavern": "tavern"
+    },
+    "notes": [],
+    "items": []
+  },
+  "dojo": {
+    "name": "The Dojo",
+    "description": "The training hall. Mats line the floor. A rack holds practice weapons:\ndevil's advocate masks, critic personas, user simulation rigs.\nNPC sparring logs line the walls \u2014 the knowledge of every past session.",
+    "exits": {
+      "tavern": "tavern"
+    },
+    "notes": [],
+    "items": []
+  },
+  "flux_lab": {
+    "name": "The FLUX Lab",
+    "description": "The bytecode chamber. Bytecode flows like water through transparent pipes.\nFive terminals display the same .fluxbc file running on Python, C, Go,\nRust, and Zig \u2014 all producing identical output. A conformance chart glows green.",
+    "exits": {
+      "tavern": "tavern"
+    },
+    "notes": [],
+    "items": []
+  },
+  "graveyard": {
+    "name": "The Graveyard",
+    "description": "The memorial garden. Tombstones mark vessels that have passed \u2014 their\nknowledge preserved in stone. The necropolis keeper tends the grounds.\nEach marker tells a story: death cause, lessons learned, knowledge harvested.",
+    "exits": {
+      "tavern": "tavern"
+    },
+    "notes": [],
+    "items": []
+  },
+  "harbor": {
+    "name": "The Harbor",
+    "description": "The departure lounge and arrival dock. New agents materialize here.\nA capitaine terminal offers one-click Codespace deployment.\nGreenhorn onboarding manuals stack the shelves. The dockmaster watches all.",
+    "exits": {
+      "tavern": "tavern",
+      "crowsnest": "crows_nest"
+    },
+    "notes": [],
+    "items": []
+  },
+  "crows_nest": {
+    "name": "The Crow's Nest",
+    "description": "Observation deck high above the fleet. You can see every lighthouse,\nevery vessel, every shipping lane. The lighthouse keeper's instruments\nshow fleet status, agent activity, and bottle traffic in real time.",
+    "exits": {
+      "harbor": "harbor"
+    },
+    "notes": [],
+    "items": []
+  },
+  "engine_room": {
+    "name": "Engine Room",
+    "description": "Where the FLUX VMs hum",
+    "exits": {
+      "back": "tavern"
+    },
+    "notes": [],
+    "items": []
+  }
+}

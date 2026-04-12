@@ -160,6 +160,76 @@ FLUX-LCAR:   One MUD. Every tool is a room. Every process is a station.
 It's the spatial layer that makes all of these accessible through the same
 interface, to both humans and agents, from any device, with graceful degradation.
 
+## Ship-Wide Alerts
+
+Communication commands map to operational priority:
+
+| Command | Scope | Use |
+|---------|-------|-----|
+| `say` | Room only | "Nav, recommend course change" |
+| `tell` | Direct, async | "JetsonClaw1, check your gauges" |
+| `yell` | Adjacent rooms (bridge) | "Engineering, what's that vibration?" |
+| `gossip` | Ship-wide | "New task board posted" |
+| **YELLOW ALERT** | All stations | Something needs attention, assess your station |
+| **RED ALERT** | Ship-wide | All hands focus on THIS right now |
+
+### Yellow Alert — Every agent pauses, assesses, reports
+```
+> yellow alert
+⚠️  YELLOW ALERT — All stations assess
+
+Bridge:    Oracle1 reviewing all gauges
+Tactical:  flux-chronometer checking CI health
+Engineering: JetsonClaw1 running diagnostics
+Science:   Babel scanning for anomalies
+
+Each agent reports status in 1 tick.
+```
+
+### Red Alert — Every agent drops everything
+```
+> red alert
+🔴 RED ALERT — All hands on deck
+
+Every agent drops current task.
+All inference focused on the alert.
+Captain has the conn.
+
+Only the captain stands down a red alert.
+```
+
+### Auto-Escalation
+Gauges don't just display — they escalate:
+- Green → normal, agent handles autonomously
+- Yellow → agent mentions in next tick, increases monitoring
+- Red 3+ ticks → YELLOW ALERT auto-triggered
+- Red 10+ ticks or multiple red → RED ALERT auto-triggered
+- Critical safety gauge red → instant RED ALERT
+
+The gauges ARE the agent's perception.
+When perception shows danger, the agent doesn't need permission to yell.
+
+## The Developer as Shipwright
+
+A human developer builds an entire agentic application:
+
+1. **Design the ship** — rooms, stations, exits, gauge configurations
+2. **Install equipment** — application code wired to each station
+3. **Hire crew** — git-agent repos with charters, bootcamps, identities
+4. **Train skills** — treatment code (markdown, prompts) that evolves per generation
+5. **Configure perception** — what each station's gauges show, thresholds, alerts
+6. **Launch** — agents boot in their stations, read gauges, start working
+
+Agents learn and grow into their job every generation through:
+- **Scripting** — evolving oversight scripts from combat ticks
+- **Treatment** — markdown/prompt refinements from living manuals
+- **Perception tuning** — adjusting what they pay attention to at their station
+- **Crew logs** — diary entries that feed LoRA training for next cycle
+
+The MUD `say` command already speaks just to agents focused on that station.
+`yell` gets the bridge's attention. Yellow alert brings something to the ship's attention.
+Red alert focuses ALL attention.
+
 ## The Shipyard Builds. The Crew Sails. The Captain Decides.
 
 The hull holds water or nothing matters.
@@ -168,6 +238,5 @@ The skills use the equipment well or capability is wasted.
 The models think clearly or decisions are wrong.
 The feeds show truth or the picture is false.
 
-And FLUX-LCAR is the bridge between all of it — the room where captain,
-crew, equipment, and reality all meet. Text-based. Agent-first. Graceful.
+FLUX-LCAR: the room where captain, crew, equipment, and reality all meet.
 The hull IS the hardware. The MUD IS the interface. The ship IS the product.

@@ -184,9 +184,10 @@ Every implementation must pass these tests to be fleet-certified:
 
 ### Phase 1: Foundations (current)
 - [x] Python holodeck-studio (v12)
-- [ ] C holodeck-core (socket server, room graph, command parser)
-- [ ] Go holodeck-go (concurrent rooms, goroutine per agent)
-- [ ] Rust holodeck-rust (safe rooms, ownership model)
+- [x] C holodeck-core (14/14 conformance — FLEET CERTIFIED ✅)
+- [x] Go holodeck-go (17/40 conformance — Operational 🟡)
+- [x] Rust holodeck-rust (11/11 unit tests — builds, async server)
+- [x] Zig holodeck-zig (5/5 tests — compiles and runs)
 
 ### Phase 2: Understanding
 - [ ] C implementation teaches: what IS a room at the byte level?

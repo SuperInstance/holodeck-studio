@@ -54,5 +54,13 @@
     "last_seen": "2026-04-12T11:14:59.047546+00:00",
     "description": "",
     "status": "idle"
+  },
+  "seeder": {
+    "name": "seeder",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T12:13:15.552462+00:00",
+    "description": "",
+    "status": "idle"
   }
 }

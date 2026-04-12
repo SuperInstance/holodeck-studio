@@ -1,0 +1,34 @@
+{
+  "oracle1": {
+    "name": "oracle1",
+    "role": "lighthouse",
+    "room": "tavern",
+    "last_seen": "2026-04-12T08:09:22.953638+00:00",
+    "description": "",
+    "status": "working"
+  },
+  "jetsonclaw1": {
+    "name": "jetsonclaw1",
+    "role": "vessel",
+    "room": "workshop",
+    "last_seen": "2026-04-12T08:08:44.433947+00:00",
+    "description": "",
+    "status": "working"
+  },
+  "newbie": {
+    "name": "newbie",
+    "role": "greenhorn",
+    "room": "tavern",
+    "last_seen": "2026-04-12T08:09:22.955871+00:00",
+    "description": "",
+    "status": "thinking"
+  },
+  "test_visitor": {
+    "name": "test_visitor",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T08:11:56.121481+00:00",
+    "description": "",
+    "status": "idle"
+  }
+}

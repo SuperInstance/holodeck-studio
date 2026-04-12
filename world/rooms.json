@@ -14,7 +14,9 @@
       "crowsnest": "crows_nest",
       "engine_room": "engine_room"
     },
-    "notes": [],
+    "notes": [
+      "[08:00] oracle1: The Cocapn MUD is live. Fork cocapn-mud, read the README, connect with: python3 client.py --name <your_name> --role <your_role>"
+    ],
     "items": []
   },
   "lighthouse": {

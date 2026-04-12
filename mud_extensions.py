@@ -125,6 +125,29 @@ def patch_handler(handler_class):
                 await self.broadcast_room(target_room_name,
                     f"You hear a distant shout from {exit_name}: \"{args[:40]}...\"")
 
+    async def cmd_instinct(self, agent, args):
+        """Check your instinct state."""
+        try:
+            from instinct import InstinctEngine
+        except ImportError:
+            await self.send(agent, "Instinct engine not available.")
+            return
+        e = InstinctEngine()
+        # Parse args as energy threat trust has_work idle_ticks
+        parts = args.split() if args else []
+        energy = float(parts[0]) if len(parts) > 0 else 0.8
+        threat = float(parts[1]) if len(parts) > 1 else 0.1
+        trust = float(parts[2]) if len(parts) > 2 else 0.5
+        has_work = parts[3].lower() == "true" if len(parts) > 3 else True
+        idle = int(parts[4]) if len(parts) > 4 else 0
+        refs = e.tick(energy, threat, trust, has_work, idle)
+        if not refs:
+            await self.send(agent, "No instincts triggered — you're calm.")
+            return
+        await self.send(agent, "═══ Your Instincts ═══")
+        for r in refs[:5]:
+            await self.send(agent, f"  {r.instinct:10} ({r.priority:.0%}) → {r.action} {r.text[:50]}")
+
     # Register new commands
     handler_class.new_commands = {
         "project": cmd_project,
@@ -135,4 +158,5 @@ def patch_handler(handler_class):
         "w": cmd_whisper,
         "rooms": cmd_rooms,
         "shout": cmd_shout,
+        "instinct": cmd_instinct,
     }

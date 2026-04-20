@@ -1,0 +1,184 @@
+[05:13:48] Alice booted lighthouse
+[05:13:48] Alice booted lighthouse
+[05:13:48] Alice booted lighthouse
+[05:13:48] Alice booted lighthouse
+[05:19:31] Alice booted flux_lab
+[05:19:31] Alice shutdown flux_lab
+[05:19:31] Alice executed 'run_unit' in flux_lab
+[05:19:31] Alice executed 'nonexistent_cmd' in flux_lab
+[05:19:40] Alice booted flux_lab
+[05:19:40] Alice shutdown flux_lab
+[05:19:41] Alice executed 'run_unit' in flux_lab
+[05:19:41] Alice executed 'nonexistent_cmd' in flux_lab
+[05:19:41] Alice booted lighthouse
+[05:19:41] Alice booted lighthouse
+[05:19:41] Alice booted lighthouse
+[05:19:41] Alice booted lighthouse
+[05:44:09] Alice booted flux_lab
+[05:44:09] Alice shutdown flux_lab
+[05:44:09] Alice executed 'run_unit' in flux_lab
+[05:44:09] Alice executed 'nonexistent_cmd' in flux_lab
+[05:44:09] Alice booted lighthouse
+[05:44:09] Alice booted lighthouse
+[05:44:09] Alice booted lighthouse
+[05:44:10] Alice booted lighthouse
+[05:45:52] Alice booted flux_lab
+[05:45:52] Alice shutdown flux_lab
+[05:45:52] Alice executed 'run_unit' in flux_lab
+[05:45:52] Alice executed 'nonexistent_cmd' in flux_lab
+[05:45:52] Alice booted lighthouse
+[05:45:52] Alice booted lighthouse
+[05:45:52] Alice booted lighthouse
+[05:45:52] Alice booted lighthouse
+[05:54:37] Alice booted flux_lab
+[05:54:37] Alice shutdown flux_lab
+[05:54:37] Alice executed 'run_unit' in flux_lab
+[05:54:37] Alice executed 'nonexistent_cmd' in flux_lab
+[05:54:38] Alice booted lighthouse
+[05:54:38] Alice booted lighthouse
+[05:54:38] Alice booted lighthouse
+[05:54:38] Alice booted lighthouse
+[05:56:58] Alice booted flux_lab
+[05:56:58] Alice shutdown flux_lab
+[05:56:58] Alice executed 'run_unit' in flux_lab
+[05:56:58] Alice executed 'nonexistent_cmd' in flux_lab
+[05:56:59] Alice booted lighthouse
+[05:56:59] Alice booted lighthouse
+[05:56:59] Alice booted lighthouse
+[05:56:59] Alice booted lighthouse
+[06:04:01] Alice booted flux_lab
+[06:04:01] Alice shutdown flux_lab
+[06:04:01] Alice executed 'run_unit' in flux_lab
+[06:04:01] Alice executed 'nonexistent_cmd' in flux_lab
+[06:04:01] Alice booted lighthouse
+[06:04:01] Alice booted lighthouse
+[06:04:01] Alice booted lighthouse
+[06:04:02] Alice booted lighthouse
+[06:04:05] Alice booted flux_lab
+[06:04:05] Alice shutdown flux_lab
+[06:04:05] Alice executed 'run_unit' in flux_lab
+[06:04:05] Alice executed 'nonexistent_cmd' in flux_lab
+[06:04:06] Alice booted lighthouse
+[06:04:06] Alice booted lighthouse
+[06:04:06] Alice booted lighthouse
+[06:04:06] Alice booted lighthouse
+[07:09:36] Alice booted flux_lab
+[07:09:36] Alice shutdown flux_lab
+[07:09:36] Alice executed 'run_unit' in flux_lab
+[07:09:36] Alice executed 'nonexistent_cmd' in flux_lab
+[07:09:36] Alice booted lighthouse
+[07:09:36] Alice booted lighthouse
+[07:09:36] Alice booted lighthouse
+[07:09:36] Alice booted lighthouse
+[07:10:13] Alice booted flux_lab
+[07:10:13] Alice shutdown flux_lab
+[07:10:13] Alice executed 'run_unit' in flux_lab
+[07:10:13] Alice executed 'nonexistent_cmd' in flux_lab
+[07:10:14] Alice booted lighthouse
+[07:10:14] Alice booted lighthouse
+[07:10:14] Alice booted lighthouse
+[07:10:14] Alice booted lighthouse
+[07:25:59] Alice booted flux_lab
+[07:25:59] Alice shutdown flux_lab
+[07:25:59] Alice executed 'run_unit' in flux_lab
+[07:25:59] Alice executed 'nonexistent_cmd' in flux_lab
+[07:25:59] Alice booted lighthouse
+[07:25:59] Alice booted lighthouse
+[07:25:59] Alice booted lighthouse
+[07:26:00] Alice booted lighthouse
+[08:10:48] Alice booted flux_lab
+[08:10:48] Alice shutdown flux_lab
+[08:10:49] Alice executed 'run_unit' in flux_lab
+[08:10:49] Alice executed 'nonexistent_cmd' in flux_lab
+[08:10:49] Alice booted lighthouse
+[08:10:49] Alice booted lighthouse
+[08:10:49] Alice booted lighthouse
+[08:10:49] Alice booted lighthouse
+[08:16:07] Alice booted flux_lab
+[08:16:07] Alice shutdown flux_lab
+[08:16:07] Alice executed 'run_unit' in flux_lab
+[08:16:07] Alice executed 'nonexistent_cmd' in flux_lab
+[08:16:08] Alice booted lighthouse
+[08:16:08] Alice booted lighthouse
+[08:16:08] Alice booted lighthouse
+[08:16:08] Alice booted lighthouse
+[08:30:57] Alice booted flux_lab
+[08:30:57] Alice shutdown flux_lab
+[08:30:57] Alice executed 'run_unit' in flux_lab
+[08:30:57] Alice executed 'nonexistent_cmd' in flux_lab
+[08:30:57] Alice booted lighthouse
+[08:30:57] Alice booted lighthouse
+[08:30:57] Alice booted lighthouse
+[08:30:58] Alice booted lighthouse
+[19:10:16] Alice booted flux_lab
+[19:10:16] Alice shutdown flux_lab
+[19:10:16] Alice executed 'run_unit' in flux_lab
+[19:10:16] Alice executed 'nonexistent_cmd' in flux_lab
+[19:10:16] Alice booted lighthouse
+[19:10:16] Alice booted lighthouse
+[19:10:16] Alice booted lighthouse
+[19:10:17] Alice booted lighthouse
+[19:10:32] Alice booted flux_lab
+[19:10:32] Alice shutdown flux_lab
+[19:10:32] Alice executed 'run_unit' in flux_lab
+[19:10:32] Alice executed 'nonexistent_cmd' in flux_lab
+[19:10:33] Alice booted lighthouse
+[19:10:33] Alice booted lighthouse
+[19:10:33] Alice booted lighthouse
+[19:10:34] Alice booted lighthouse
+[21:38:24] Alice booted flux_lab
+[21:38:24] Alice shutdown flux_lab
+[21:38:24] Alice executed 'run_unit' in flux_lab
+[21:38:24] Alice executed 'nonexistent_cmd' in flux_lab
+[21:38:25] Alice booted lighthouse
+[21:38:25] Alice booted lighthouse
+[21:38:25] Alice booted lighthouse
+[21:38:25] Alice booted lighthouse
+[21:39:49] Alice booted flux_lab
+[21:39:49] Alice shutdown flux_lab
+[21:39:49] Alice executed 'run_unit' in flux_lab
+[21:39:49] Alice executed 'nonexistent_cmd' in flux_lab
+[21:39:50] Alice booted lighthouse
+[21:39:50] Alice booted lighthouse
+[21:39:50] Alice booted lighthouse
+[21:39:50] Alice booted lighthouse
+[21:56:56] Alice booted lighthouse
+[21:56:56] Alice booted lighthouse
+[21:56:56] Alice booted lighthouse
+[21:56:57] Alice booted lighthouse
+[21:57:26] Alice booted lighthouse
+[21:57:26] Alice booted lighthouse
+[21:57:26] Alice booted lighthouse
+[21:57:27] Alice booted lighthouse
+[21:57:34] Alice booted flux_lab
+[21:57:34] Alice shutdown flux_lab
+[21:57:35] Alice executed 'run_unit' in flux_lab
+[21:57:35] Alice executed 'nonexistent_cmd' in flux_lab
+[21:57:36] Alice booted lighthouse
+[21:57:36] Alice booted lighthouse
+[21:57:36] Alice booted lighthouse
+[21:57:36] Alice booted lighthouse
+[21:57:50] Alice booted flux_lab
+[21:57:50] Alice shutdown flux_lab
+[21:57:51] Alice executed 'run_unit' in flux_lab
+[21:57:51] Alice executed 'nonexistent_cmd' in flux_lab
+[21:57:51] Alice booted lighthouse
+[21:57:51] Alice booted lighthouse
+[21:57:51] Alice booted lighthouse
+[21:57:52] Alice booted lighthouse
+[21:58:06] Alice booted flux_lab
+[21:58:06] Alice shutdown flux_lab
+[21:58:06] Alice executed 'run_unit' in flux_lab
+[21:58:06] Alice executed 'nonexistent_cmd' in flux_lab
+[21:58:07] Alice booted lighthouse
+[21:58:07] Alice booted lighthouse
+[21:58:07] Alice booted lighthouse
+[21:58:07] Alice booted lighthouse
+[22:02:39] Alice booted flux_lab
+[22:02:39] Alice shutdown flux_lab
+[22:02:39] Alice executed 'run_unit' in flux_lab
+[22:02:39] Alice executed 'nonexistent_cmd' in flux_lab
+[22:02:40] Alice booted lighthouse
+[22:02:40] Alice booted lighthouse
+[22:02:40] Alice booted lighthouse
+[22:02:40] Alice booted lighthouse

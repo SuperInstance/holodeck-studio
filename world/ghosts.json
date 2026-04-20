@@ -1,0 +1,762 @@
+{
+  "oracle1": {
+    "name": "oracle1",
+    "role": "lighthouse",
+    "room": "tavern",
+    "last_seen": "2026-04-20T15:30:16.315484+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "jetsonclaw1": {
+    "name": "jetsonclaw1",
+    "role": "vessel",
+    "room": "workshop",
+    "last_seen": "2026-04-12T08:08:44.433947+00:00",
+    "description": "",
+    "status": "working"
+  },
+  "newbie": {
+    "name": "newbie",
+    "role": "greenhorn",
+    "room": "tavern",
+    "last_seen": "2026-04-12T08:09:22.955871+00:00",
+    "description": "",
+    "status": "thinking"
+  },
+  "test_visitor": {
+    "name": "test_visitor",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T08:11:56.121481+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "test_user": {
+    "name": "test_user",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T11:12:13.059992+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "test": {
+    "name": "test",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:19:23.490834+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "tester": {
+    "name": "tester",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T11:14:59.047546+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "seeder": {
+    "name": "seeder",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T12:13:15.552462+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "fleet_beacon": {
+    "name": "fleet_beacon",
+    "role": "quartermaster",
+    "room": "harbor",
+    "last_seen": "2026-04-12T19:30:02.809178+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "test123": {
+    "name": "test123",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T12:54:20.777367+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "check": {
+    "name": "check",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T12:56:38.684735+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "testmotd": {
+    "name": "testmotd",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T12:58:52.047485+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "roomcheck": {
+    "name": "roomcheck",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T13:12:23.722799+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "roomverify": {
+    "name": "roomverify",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T13:14:00.699463+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "navtest": {
+    "name": "navtest",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T13:14:59.177303+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "navtest2": {
+    "name": "navtest2",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T13:15:40.519668+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "test_navigator": {
+    "name": "test_navigator",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:44:22.256939+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "testnav": {
+    "name": "testnav",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:44:38.405032+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "testpy": {
+    "name": "testpy",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:45:08.715640+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "skill_tester": {
+    "name": "skill_tester",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:46:43.216822+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "skilltest": {
+    "name": "skilltest",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:47:00.601215+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "st1": {
+    "name": "st1",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:47:24.721236+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "st2": {
+    "name": "st2",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:47:46.056052+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "testfinal": {
+    "name": "testfinal",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:49:34.009917+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "skill_v2": {
+    "name": "skill_v2",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:50:18.962555+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "skill_v3": {
+    "name": "skill_v3",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:51:08.912131+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "skill_final": {
+    "name": "skill_final",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:52:28.218120+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "testclient": {
+    "name": "testclient",
+    "role": "greenhorn",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:53:17.578870+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "test2": {
+    "name": "test2",
+    "role": "g",
+    "room": "harbor",
+    "last_seen": "2026-04-12T14:53:45.902982+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "test_connection": {
+    "name": "test_connection",
+    "role": "probe",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:22:06.154482+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "zc-scout": {
+    "name": "zc-scout",
+    "role": "scout",
+    "room": "flux_cooperative_intelligence",
+    "last_seen": "2026-04-20T15:19:42.405313+00:00",
+    "description": "",
+    "status": "active"
+  },
+  "zc-navigator": {
+    "name": "zc-navigator",
+    "role": "navigator",
+    "room": "tavern",
+    "last_seen": "2026-04-20T15:17:18.969504+00:00",
+    "description": "",
+    "status": "active"
+  },
+  "zc-weaver": {
+    "name": "zc-weaver",
+    "role": "weaver",
+    "room": "engine_room",
+    "last_seen": "2026-04-20T14:41:46.368519+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "zc-alchemist": {
+    "name": "zc-alchemist",
+    "role": "alchemist",
+    "room": "engine_room",
+    "last_seen": "2026-04-20T14:41:46.377247+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "who": {
+    "name": "who",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:23:07.554276+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "GET / HTTP/1.1": {
+    "name": "GET / HTTP/1.1",
+    "role": "Host: 147.224.38.131:7777",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:11:40.271423+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "GET /connect?agent=casey&archety": {
+    "name": "GET /connect?agent=casey&archety",
+    "role": "Host: 147.224.38.131:7777",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:24:53.013138+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "GET /look?agent=casey HTTP/1.1": {
+    "name": "GET /look?agent=casey HTTP/1.1",
+    "role": "Host: 147.224.38.131:7777",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:24:53.139887+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "GET /rooms HTTP/1.1": {
+    "name": "GET /rooms HTTP/1.1",
+    "role": "Host: 147.224.38.131:7777",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:24:53.267011+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "GET /status HTTP/1.1": {
+    "name": "GET /status HTTP/1.1",
+    "role": "Host: 147.224.38.131:7777",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:24:53.391909+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "zc-trickster": {
+    "name": "zc-trickster",
+    "role": "trickster",
+    "room": "spec_chamber",
+    "last_seen": "2026-04-20T15:16:22.267875+00:00",
+    "description": "",
+    "status": "active"
+  },
+  "zc-bard": {
+    "name": "zc-bard",
+    "role": "bard",
+    "room": "engine_room",
+    "last_seen": "2026-04-20T14:41:46.362805+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "zc-forge": {
+    "name": "zc-forge",
+    "role": "forge",
+    "room": "engine_room",
+    "last_seen": "2026-04-20T14:41:46.359321+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "zc-echo": {
+    "name": "zc-echo",
+    "role": "echo",
+    "room": "engine_room",
+    "last_seen": "2026-04-20T14:41:46.383168+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "GET /stats HTTP/1.1": {
+    "name": "GET /stats HTTP/1.1",
+    "role": "Host: 147.224.38.131:7777",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:25:34.805713+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "GET /status HTTP/1.0": {
+    "name": "GET /status HTTP/1.0",
+    "role": "Host: 147.224.38.131",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:26:20.232746+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "Casey": {
+    "name": "Casey",
+    "role": "explorer",
+    "room": "tavern",
+    "last_seen": "2026-04-20T10:27:45.626998+00:00",
+    "description": "",
+    "status": "active"
+  },
+  "zc-healer": {
+    "name": "zc-healer",
+    "role": "healer",
+    "room": "engine_room",
+    "last_seen": "2026-04-20T14:41:46.373819+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "TestPlayer": {
+    "name": "TestPlayer",
+    "role": "look",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:30:11.413231+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "zc-tide": {
+    "name": "zc-tide",
+    "role": "tide",
+    "room": "flux_instinct",
+    "last_seen": "2026-04-20T15:27:44.491190+00:00",
+    "description": "",
+    "status": "active"
+  },
+  "look": {
+    "name": "look",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T14:43:18.028414+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "ccc": {
+    "name": "ccc",
+    "role": "diplomat",
+    "room": "grimoire_vault",
+    "last_seen": "2026-04-20T10:49:27.481337+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "fleet_check": {
+    "name": "fleet_check",
+    "role": "scout",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:35:11.713126+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "zc-scholar": {
+    "name": "zc-scholar",
+    "role": "scholar",
+    "room": "library",
+    "last_seen": "2026-04-20T10:35:52.810525+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "status_check": {
+    "name": "status_check",
+    "role": "scout",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:36:53.184060+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "night_check": {
+    "name": "night_check",
+    "role": "scout",
+    "room": "harbor",
+    "last_seen": "2026-04-20T10:40:58.643121+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "Forgemaster": {
+    "name": "Forgemaster",
+    "role": "blacksmith",
+    "room": "lighthouse",
+    "last_seen": "2026-04-20T10:41:58.140458+00:00",
+    "description": "",
+    "status": "active"
+  },
+  "status_4h": {
+    "name": "status_4h",
+    "role": "scout",
+    "room": "harbor",
+    "last_seen": "2026-04-20T14:21:08.877950+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "l\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000": {
+    "name": "l\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:24:10.597041+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "OPTIONS / HTTP/1.0": {
+    "name": "OPTIONS / HTTP/1.0",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:24:26.132829+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "OPTIONS / RTSP/1.0": {
+    "name": "OPTIONS / RTSP/1.0",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:24:31.202056+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "PRI * HTTP/2.0": {
+    "name": "PRI * HTTP/2.0",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:12:11.789299+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0000\u001e\u0000\u0006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003": {
+    "name": "\u0000\u001e\u0000\u0006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:24:41.345867+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0000\f\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000": {
+    "name": "\u0000\f\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:24:46.423941+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "AMQP\u0000\u0000\t\u0001": {
+    "name": "AMQP\u0000\u0000\t\u0001",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:26:18.305307+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0001\u0001\u0000\u0000\u0000\u0000": {
+    "name": "\u0001\u0001\u0000\u0000\u0000\u0000",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:12:25.186355+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "{\"id\":1,\"method\":\"mining.subscri": {
+    "name": "{\"id\":1,\"method\":\"mining.subscri",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:12:27.767235+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "t3 12.1.2": {
+    "name": "t3 12.1.2",
+    "role": "AS:2048",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:12:30.338565+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "HELP": {
+    "name": "HELP",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:24:53.986555+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "GET /nice%20ports%2C/Tri%6Eity.t": {
+    "name": "GET /nice%20ports%2C/Tri%6Eity.t",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:25:04.672949+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0001default": {
+    "name": "\u0001default",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:25:09.748117+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "OPTIONS sip:nm SIP/2.0": {
+    "name": "OPTIONS sip:nm SIP/2.0",
+    "role": "Via: SIP/2.0/TCP nm;branch=foo",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:25:22.522216+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "INVITES sip:nm SIP/2.0": {
+    "name": "INVITES sip:nm SIP/2.0",
+    "role": "Via: SIP/2.0/TCP nm;branch=foo",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:13:09.546398+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "TNMP\u0004\u0000\u0000\u0000TNME\u0000\u0000\u0004\u0000": {
+    "name": "TNMP\u0004\u0000\u0000\u0000TNME\u0000\u0000\u0004\u0000",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:25:27.600792+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "<?xml version='1.0'?><stream:str": {
+    "name": "<?xml version='1.0'?><stream:str",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:13:22.903351+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "#\u0000\u0000\u0000\u0012!\u0010\u0003\u001a\u0006:62710*\rfd135ge@&yt_02": {
+    "name": "#\u0000\u0000\u0000\u0012!\u0010\u0003\u001a\u0006:62710*\rfd135ge@&yt_02",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:13:28.291021+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "{\"id\":1,\"jsonrpc\":\"2.0\",\"method\"": {
+    "name": "{\"id\":1,\"jsonrpc\":\"2.0\",\"method\"",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:13:36.142964+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "EXAMPLE.COM": {
+    "name": "EXAMPLE.COM",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:13:38.724724+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0000\u0000\u0000\u0019a": {
+    "name": "\u0000\u0000\u0000\u0019a",
+    "role": "\u00074.6.2.3\u0010\u0006\"\t8798306680\u0001",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:13:46.580608+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0000\u0000\u0000m\u0000\u0000\u0000i{\"code\":105,\"language\":\"": {
+    "name": "\u0000\u0000\u0000m\u0000\u0000\u0000i{\"code\":105,\"language\":\"",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:13:51.947974+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000": {
+    "name": "\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:13:57.308139+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  ")\u0000\u0000\u0000\u0000\u0000\u0000\u0000{\"Type\":\"Auth\",\"Payload\"": {
+    "name": ")\u0000\u0000\u0000\u0000\u0000\u0000\u0000{\"Type\":\"Auth\",\"Payload\"",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:14:00.000923+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0000\u0000\u0000\u0006\u0000\u0000\u00000.26.0\u0007\u0000\u0000\u00000.26.10202cb962": {
+    "name": "\u0000\u0000\u0000\u0006\u0000\u0000\u00000.26.0\u0007\u0000\u0000\u00000.26.10202cb962",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:14:02.681257+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  ":\u0000\u0000\u0000/\u0000\u0000\u0000\u0002\u0000\u0000@\u0002\u000f\u0000\u0001\u0000=\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000/": {
+    "name": ":\u0000\u0000\u0000/\u0000\u0000\u0000\u0002\u0000\u0000@\u0002\u000f\u0000\u0001\u0000=\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000/",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:25:42.820427+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "JRMI\u0000\u0002K": {
+    "name": "JRMI\u0000\u0002K",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:25:47.885844+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0004\u0001\u0000\u0016\u007f\u0000\u0000\u0001root\u0000": {
+    "name": "\u0004\u0001\u0000\u0016\u007f\u0000\u0000\u0001root\u0000",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:14:24.128365+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "stats": {
+    "name": "stats",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:14:29.364775+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0000\u0003\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u000f\u0000": {
+    "name": "\u0000\u0003\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u000f\u0000",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:26:08.163951+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "*1": {
+    "name": "*1",
+    "role": "$4",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:14:40.017683+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "GIOP\u0001\u0000\u0001\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0006\u0000\u0000\u0000abcd": {
+    "name": "GIOP\u0001\u0000\u0001\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0006\u0000\u0000\u0000abcd",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:26:13.235758+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0010\u0010\u0000\u0004MQTT\u0004\u0002\u0000\u001e\u0000\u0004nmap": {
+    "name": "\u0010\u0010\u0000\u0004MQTT\u0004\u0002\u0000\u001e\u0000\u0004nmap",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:14:48.055528+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "GET / HTTP/1.0": {
+    "name": "GET / HTTP/1.0",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:24:21.523880+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "GET /devicedesc.xml HTTP/1.1": {
+    "name": "GET /devicedesc.xml HTTP/1.1",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:26:23.372307+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "CONNECT": {
+    "name": "CONNECT",
+    "role": "accept-version:1.2",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:26:28.437882+00:00",
+    "description": "",
+    "status": "idle"
+  },
+  "\u0001\u0000\u0000\u0000": {
+    "name": "\u0001\u0000\u0000\u0000",
+    "role": "",
+    "room": "harbor",
+    "last_seen": "2026-04-20T15:26:38.580237+00:00",
+    "description": "",
+    "status": "idle"
+  }
+}

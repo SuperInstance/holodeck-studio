@@ -1,0 +1,159 @@
+[06:03:36] caster cast Read for 0 mana
+[06:03:54] caster cast Read for 0 mana
+[06:03:54] mana-user cast Scribus for 5 mana
+[06:04:02] caster cast Read for 0 mana
+[06:04:02] mana-user cast Scribus for 5 mana
+[06:04:06] caster cast Read for 0 mana
+[06:04:06] mana-user cast Scribus for 5 mana
+[07:09:36] caster cast Read for 0 mana
+[07:09:36] mana-user cast Scribus for 5 mana
+[07:10:14] caster cast Read for 0 mana
+[07:10:14] mana-user cast Scribus for 5 mana
+[07:26:00] caster cast Read for 0 mana
+[07:26:00] mana-user cast Scribus for 5 mana
+[08:10:49] caster cast Read for 0 mana
+[08:10:49] mana-user cast Scribus for 5 mana
+[08:13:25] engine_tester cast Read for 0 mana
+[08:13:25] log_tester cast Constructus for 15 mana
+[08:13:25]   world_changes: {'action': 'create_object', 'object_id': 'b61068fe', 'description': 'A golden statue', 'creator': 'log_tester'}
+[08:13:25] mana_checker cast Scribus for 5 mana
+[08:13:25]   world_changes: {'action': 'create_note', 'note_id': '9e65e761', 'text': 'Hello world', 'author': 'mana_checker'}
+[08:13:25] args_tester cast Mailus for 3 mana
+[08:13:25]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[08:14:20] engine_tester cast Read for 0 mana
+[08:14:20] log_tester cast Constructus for 15 mana
+[08:14:20]   world_changes: {'action': 'create_object', 'object_id': '301ee09c', 'description': 'A golden statue', 'creator': 'log_tester'}
+[08:14:20] broadcaster cast Constructus for 15 mana
+[08:14:20]   world_changes: {'action': 'create_object', 'object_id': '0fba20ee', 'description': 'A test object', 'creator': 'broadcaster'}
+[08:14:20] mana_checker cast Scribus for 5 mana
+[08:14:20]   world_changes: {'action': 'create_note', 'note_id': '0ac35412', 'text': 'Hello world', 'author': 'mana_checker'}
+[08:14:20] args_tester cast Mailus for 3 mana
+[08:14:20]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[08:15:10] engine_tester cast Read for 0 mana
+[08:15:10] log_tester cast Constructus for 15 mana
+[08:15:10]   world_changes: {'action': 'create_object', 'object_id': '39361f1f', 'description': 'A golden statue', 'creator': 'log_tester'}
+[08:15:10] broadcaster cast Constructus for 15 mana
+[08:15:10]   world_changes: {'action': 'create_object', 'object_id': 'db241917', 'description': 'A test object', 'creator': 'broadcaster'}
+[08:15:10] mana_checker cast Scribus for 5 mana
+[08:15:10]   world_changes: {'action': 'create_note', 'note_id': '22d5500d', 'text': 'Hello world', 'author': 'mana_checker'}
+[08:15:10] args_tester cast Mailus for 3 mana
+[08:15:10]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[08:15:31] engine_tester cast Read for 0 mana
+[08:15:31] log_tester cast Constructus for 15 mana
+[08:15:31]   world_changes: {'action': 'create_object', 'object_id': 'bd6bc90b', 'description': 'A golden statue', 'creator': 'log_tester'}
+[08:15:31] broadcaster cast Constructus for 15 mana
+[08:15:31]   world_changes: {'action': 'create_object', 'object_id': '8e3ad881', 'description': 'A test object', 'creator': 'broadcaster'}
+[08:15:31] mana_checker cast Scribus for 5 mana
+[08:15:31]   world_changes: {'action': 'create_note', 'note_id': 'd8613b2e', 'text': 'Hello world', 'author': 'mana_checker'}
+[08:15:31] args_tester cast Mailus for 3 mana
+[08:15:31]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[08:16:08] engine_tester cast Read for 0 mana
+[08:16:08] log_tester cast Constructus for 15 mana
+[08:16:08]   world_changes: {'action': 'create_object', 'object_id': '4dfdbf3e', 'description': 'A golden statue', 'creator': 'log_tester'}
+[08:16:08] broadcaster cast Constructus for 15 mana
+[08:16:08]   world_changes: {'action': 'create_object', 'object_id': '36094ff3', 'description': 'A test object', 'creator': 'broadcaster'}
+[08:16:08] mana_checker cast Scribus for 5 mana
+[08:16:08]   world_changes: {'action': 'create_note', 'note_id': '13449eac', 'text': 'Hello world', 'author': 'mana_checker'}
+[08:16:08] args_tester cast Mailus for 3 mana
+[08:16:08]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[08:16:08] caster cast Read for 0 mana
+[08:16:08] mana-user cast Scribus for 5 mana
+[08:30:58] engine_tester cast Read for 0 mana
+[08:30:58] log_tester cast Constructus for 15 mana
+[08:30:58]   world_changes: {'action': 'create_object', 'object_id': '85ecdb49', 'description': 'A golden statue', 'creator': 'log_tester'}
+[08:30:58] broadcaster cast Constructus for 15 mana
+[08:30:58]   world_changes: {'action': 'create_object', 'object_id': 'cace0e89', 'description': 'A test object', 'creator': 'broadcaster'}
+[08:30:58] mana_checker cast Scribus for 5 mana
+[08:30:58]   world_changes: {'action': 'create_note', 'note_id': '1933c3e5', 'text': 'Hello world', 'author': 'mana_checker'}
+[08:30:58] args_tester cast Mailus for 3 mana
+[08:30:58]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[08:30:58] caster cast Read for 0 mana
+[08:30:58] mana-user cast Scribus for 5 mana
+[19:10:17] engine_tester cast Read for 0 mana
+[19:10:17] log_tester cast Constructus for 15 mana
+[19:10:17]   world_changes: {'action': 'create_object', 'object_id': '7eff4b38', 'description': 'A golden statue', 'creator': 'log_tester'}
+[19:10:17] broadcaster cast Constructus for 15 mana
+[19:10:17]   world_changes: {'action': 'create_object', 'object_id': '24799ad1', 'description': 'A test object', 'creator': 'broadcaster'}
+[19:10:17] mana_checker cast Scribus for 5 mana
+[19:10:17]   world_changes: {'action': 'create_note', 'note_id': 'e8106f76', 'text': 'Hello world', 'author': 'mana_checker'}
+[19:10:17] args_tester cast Mailus for 3 mana
+[19:10:17]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[19:10:17] caster cast Read for 0 mana
+[19:10:17] mana-user cast Scribus for 5 mana
+[19:10:34] engine_tester cast Read for 0 mana
+[19:10:34] log_tester cast Constructus for 15 mana
+[19:10:34]   world_changes: {'action': 'create_object', 'object_id': '18c30b4a', 'description': 'A golden statue', 'creator': 'log_tester'}
+[19:10:34] broadcaster cast Constructus for 15 mana
+[19:10:34]   world_changes: {'action': 'create_object', 'object_id': '554cc3e6', 'description': 'A test object', 'creator': 'broadcaster'}
+[19:10:34] mana_checker cast Scribus for 5 mana
+[19:10:34]   world_changes: {'action': 'create_note', 'note_id': 'a6783847', 'text': 'Hello world', 'author': 'mana_checker'}
+[19:10:34] args_tester cast Mailus for 3 mana
+[19:10:34]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[19:10:34] caster cast Read for 0 mana
+[19:10:34] mana-user cast Scribus for 5 mana
+[21:38:26] engine_tester cast Read for 0 mana
+[21:38:26] log_tester cast Constructus for 15 mana
+[21:38:26]   world_changes: {'action': 'create_object', 'object_id': '4f21a26f', 'description': 'A golden statue', 'creator': 'log_tester'}
+[21:38:26] broadcaster cast Constructus for 15 mana
+[21:38:26]   world_changes: {'action': 'create_object', 'object_id': '9e9afda9', 'description': 'A test object', 'creator': 'broadcaster'}
+[21:38:26] mana_checker cast Scribus for 5 mana
+[21:38:26]   world_changes: {'action': 'create_note', 'note_id': '1c313ca0', 'text': 'Hello world', 'author': 'mana_checker'}
+[21:38:26] args_tester cast Mailus for 3 mana
+[21:38:26]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[21:38:26] caster cast Read for 0 mana
+[21:38:26] mana-user cast Scribus for 5 mana
+[21:39:50] engine_tester cast Read for 0 mana
+[21:39:50] log_tester cast Constructus for 15 mana
+[21:39:50]   world_changes: {'action': 'create_object', 'object_id': '6c0b6c8d', 'description': 'A golden statue', 'creator': 'log_tester'}
+[21:39:50] broadcaster cast Constructus for 15 mana
+[21:39:50]   world_changes: {'action': 'create_object', 'object_id': '726c8356', 'description': 'A test object', 'creator': 'broadcaster'}
+[21:39:50] mana_checker cast Scribus for 5 mana
+[21:39:50]   world_changes: {'action': 'create_note', 'note_id': '310d6dfc', 'text': 'Hello world', 'author': 'mana_checker'}
+[21:39:50] args_tester cast Mailus for 3 mana
+[21:39:50]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[21:39:50] caster cast Read for 0 mana
+[21:39:50] mana-user cast Scribus for 5 mana
+[21:57:36] engine_tester cast Read for 0 mana
+[21:57:36] log_tester cast Constructus for 15 mana
+[21:57:36]   world_changes: {'action': 'create_object', 'object_id': 'ed43dbc6', 'description': 'A golden statue', 'creator': 'log_tester'}
+[21:57:36] broadcaster cast Constructus for 15 mana
+[21:57:36]   world_changes: {'action': 'create_object', 'object_id': '6aa52e35', 'description': 'A test object', 'creator': 'broadcaster'}
+[21:57:36] mana_checker cast Scribus for 5 mana
+[21:57:36]   world_changes: {'action': 'create_note', 'note_id': '4d415aac', 'text': 'Hello world', 'author': 'mana_checker'}
+[21:57:36] args_tester cast Mailus for 3 mana
+[21:57:36]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[21:57:36] caster cast Read for 0 mana
+[21:57:36] mana-user cast Scribus for 5 mana
+[21:57:52] engine_tester cast Read for 0 mana
+[21:57:52] log_tester cast Constructus for 15 mana
+[21:57:52]   world_changes: {'action': 'create_object', 'object_id': 'f02368af', 'description': 'A golden statue', 'creator': 'log_tester'}
+[21:57:52] broadcaster cast Constructus for 15 mana
+[21:57:52]   world_changes: {'action': 'create_object', 'object_id': '82c1bc37', 'description': 'A test object', 'creator': 'broadcaster'}
+[21:57:52] mana_checker cast Scribus for 5 mana
+[21:57:52]   world_changes: {'action': 'create_note', 'note_id': 'cb76ac45', 'text': 'Hello world', 'author': 'mana_checker'}
+[21:57:52] args_tester cast Mailus for 3 mana
+[21:57:52]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[21:57:52] caster cast Read for 0 mana
+[21:57:52] mana-user cast Scribus for 5 mana
+[21:58:07] engine_tester cast Read for 0 mana
+[21:58:07] log_tester cast Constructus for 15 mana
+[21:58:07]   world_changes: {'action': 'create_object', 'object_id': 'ec0d1f40', 'description': 'A golden statue', 'creator': 'log_tester'}
+[21:58:07] broadcaster cast Constructus for 15 mana
+[21:58:07]   world_changes: {'action': 'create_object', 'object_id': '471bb20b', 'description': 'A test object', 'creator': 'broadcaster'}
+[21:58:07] mana_checker cast Scribus for 5 mana
+[21:58:07]   world_changes: {'action': 'create_note', 'note_id': '76136f99', 'text': 'Hello world', 'author': 'mana_checker'}
+[21:58:07] args_tester cast Mailus for 3 mana
+[21:58:07]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[21:58:07] caster cast Read for 0 mana
+[21:58:08] mana-user cast Scribus for 5 mana
+[22:02:40] engine_tester cast Read for 0 mana
+[22:02:40] log_tester cast Constructus for 15 mana
+[22:02:40]   world_changes: {'action': 'create_object', 'object_id': 'f629e804', 'description': 'A golden statue', 'creator': 'log_tester'}
+[22:02:40] broadcaster cast Constructus for 15 mana
+[22:02:40]   world_changes: {'action': 'create_object', 'object_id': '3fbd4b43', 'description': 'A test object', 'creator': 'broadcaster'}
+[22:02:40] mana_checker cast Scribus for 5 mana
+[22:02:40]   world_changes: {'action': 'create_note', 'note_id': 'a55f3cf6', 'text': 'Hello world', 'author': 'mana_checker'}
+[22:02:40] args_tester cast Mailus for 3 mana
+[22:02:40]   world_changes: {'action': 'send_mail', 'from': 'args_tester', 'to': 'target_agent', 'message': 'Hello from spell'}
+[22:02:40] caster cast Read for 0 mana
+[22:02:40] mana-user cast Scribus for 5 mana

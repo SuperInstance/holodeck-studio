@@ -1,0 +1,22 @@
+[
+  {
+    "id": "360eb02d",
+    "to": "jetsonclaw1",
+    "from": "jc1",
+    "subject": "tell from jc1",
+    "body": "Hey, your edge spec review is needed.",
+    "priority": "normal",
+    "timestamp": "2026-04-12T19:35:05.515251+00:00",
+    "read": false
+  },
+  {
+    "id": "a16a9570",
+    "to": "jetsonclaw1",
+    "from": "jc1",
+    "subject": "tell from jc1",
+    "body": "Hey, your edge spec review is needed.",
+    "priority": "normal",
+    "timestamp": "2026-04-12T19:36:04.862961+00:00",
+    "read": false
+  }
+]

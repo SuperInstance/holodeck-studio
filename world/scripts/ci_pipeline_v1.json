@@ -1,0 +1,32 @@
+{
+  "task_name": "CI Pipeline",
+  "agent": "Alice",
+  "version": 1,
+  "rules": [
+    {
+      "condition": "all gauges normal",
+      "action": "continue monitoring, no action needed",
+      "source": "seed",
+      "version": 1
+    },
+    {
+      "condition": "any gauge elevated",
+      "action": "flag for attention, increase tick frequency",
+      "source": "seed",
+      "version": 1
+    },
+    {
+      "condition": "any gauge critical",
+      "action": "alert human immediately, attempt safe fallback",
+      "source": "seed",
+      "version": 1
+    },
+    {
+      "condition": "no changes detected",
+      "action": "continue monitoring, decrease tick frequency",
+      "source": "seed",
+      "version": 1
+    }
+  ],
+  "adaptations": []
+}

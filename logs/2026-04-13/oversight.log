@@ -1,0 +1,304 @@
+[05:56:40] Alice started oversight: CI Pipeline
+[05:56:40] Alice started oversight: Test Op
+[05:56:40] Alice tick #1
+[05:56:40] Alice started oversight: Deploy
+[05:56:40] Alice tick #1
+[05:56:40] Alice started oversight: CI Pipeline
+[05:56:40] Alice tick #1
+[05:56:40] Alice ended oversight: CI Pipeline
+[05:56:40] Alice started oversight: FLUX Conformance
+[05:56:40] Alice tick #1
+[05:56:40] Alice started oversight: My Op
+[05:56:40] Alice started oversight: CI Pipeline
+[05:56:40] Alice started oversight: CI Pipeline
+[05:56:40] Alice saved script
+[05:56:40] Alice loaded script
+[05:56:40] Alice started oversight: Readme Test
+[05:56:52] Alice started oversight: CI Pipeline
+[05:56:52] Alice started oversight: Test Op
+[05:56:52] Alice tick #1
+[05:56:52] Alice started oversight: Deploy
+[05:56:52] Alice tick #1
+[05:56:52] Alice started oversight: CI Pipeline
+[05:56:52] Alice tick #1
+[05:56:52] Alice ended oversight: CI Pipeline
+[05:56:52] Alice started oversight: FLUX Conformance
+[05:56:52] Alice tick #1
+[05:56:52] Alice started oversight: My Op
+[05:56:52] Alice started oversight: CI Pipeline
+[05:56:52] Alice started oversight: CI Pipeline
+[05:56:52] Alice saved script
+[05:56:52] Alice loaded script
+[05:56:52] Alice started oversight: Readme Test
+[05:56:59] Alice started oversight: CI Pipeline
+[05:56:59] Alice started oversight: Test Op
+[05:56:59] Alice tick #1
+[05:56:59] Alice started oversight: Deploy
+[05:56:59] Alice tick #1
+[05:56:59] Alice started oversight: CI Pipeline
+[05:56:59] Alice tick #1
+[05:56:59] Alice ended oversight: CI Pipeline
+[05:56:59] Alice started oversight: FLUX Conformance
+[05:56:59] Alice tick #1
+[05:56:59] Alice started oversight: My Op
+[05:56:59] Alice started oversight: CI Pipeline
+[05:56:59] Alice started oversight: CI Pipeline
+[05:56:59] Alice saved script
+[05:56:59] Alice loaded script
+[05:56:59] Alice started oversight: Readme Test
+[06:04:01] Alice started oversight: CI Pipeline
+[06:04:01] Alice started oversight: Test Op
+[06:04:01] Alice tick #1
+[06:04:01] Alice started oversight: Deploy
+[06:04:01] Alice tick #1
+[06:04:01] Alice started oversight: CI Pipeline
+[06:04:01] Alice tick #1
+[06:04:01] Alice ended oversight: CI Pipeline
+[06:04:01] Alice started oversight: FLUX Conformance
+[06:04:01] Alice tick #1
+[06:04:01] Alice started oversight: My Op
+[06:04:01] Alice started oversight: CI Pipeline
+[06:04:01] Alice started oversight: CI Pipeline
+[06:04:01] Alice saved script
+[06:04:01] Alice loaded script
+[06:04:01] Alice started oversight: Readme Test
+[06:04:06] Alice started oversight: CI Pipeline
+[06:04:06] Alice started oversight: Test Op
+[06:04:06] Alice tick #1
+[06:04:06] Alice started oversight: Deploy
+[06:04:06] Alice tick #1
+[06:04:06] Alice started oversight: CI Pipeline
+[06:04:06] Alice tick #1
+[06:04:06] Alice ended oversight: CI Pipeline
+[06:04:06] Alice started oversight: FLUX Conformance
+[06:04:06] Alice tick #1
+[06:04:06] Alice started oversight: My Op
+[06:04:06] Alice started oversight: CI Pipeline
+[06:04:06] Alice started oversight: CI Pipeline
+[06:04:06] Alice saved script
+[06:04:06] Alice loaded script
+[06:04:06] Alice started oversight: Readme Test
+[07:09:36] Alice started oversight: CI Pipeline
+[07:09:36] Alice started oversight: Test Op
+[07:09:36] Alice tick #1
+[07:09:36] Alice started oversight: Deploy
+[07:09:36] Alice tick #1
+[07:09:36] Alice started oversight: CI Pipeline
+[07:09:36] Alice tick #1
+[07:09:36] Alice ended oversight: CI Pipeline
+[07:09:36] Alice started oversight: FLUX Conformance
+[07:09:36] Alice tick #1
+[07:09:36] Alice started oversight: My Op
+[07:09:36] Alice started oversight: CI Pipeline
+[07:09:36] Alice started oversight: CI Pipeline
+[07:09:36] Alice saved script
+[07:09:36] Alice loaded script
+[07:09:36] Alice started oversight: Readme Test
+[07:10:14] Alice started oversight: CI Pipeline
+[07:10:14] Alice started oversight: Test Op
+[07:10:14] Alice tick #1
+[07:10:14] Alice started oversight: Deploy
+[07:10:14] Alice tick #1
+[07:10:14] Alice started oversight: CI Pipeline
+[07:10:14] Alice tick #1
+[07:10:14] Alice ended oversight: CI Pipeline
+[07:10:14] Alice started oversight: FLUX Conformance
+[07:10:14] Alice tick #1
+[07:10:14] Alice started oversight: My Op
+[07:10:14] Alice started oversight: CI Pipeline
+[07:10:14] Alice started oversight: CI Pipeline
+[07:10:14] Alice saved script
+[07:10:14] Alice loaded script
+[07:10:14] Alice started oversight: Readme Test
+[07:25:59] Alice started oversight: CI Pipeline
+[07:25:59] Alice started oversight: Test Op
+[07:25:59] Alice tick #1
+[07:25:59] Alice started oversight: Deploy
+[07:25:59] Alice tick #1
+[07:25:59] Alice started oversight: CI Pipeline
+[07:25:59] Alice tick #1
+[07:25:59] Alice ended oversight: CI Pipeline
+[07:25:59] Alice started oversight: FLUX Conformance
+[07:25:59] Alice tick #1
+[07:25:59] Alice started oversight: My Op
+[07:25:59] Alice started oversight: CI Pipeline
+[07:25:59] Alice started oversight: CI Pipeline
+[07:25:59] Alice saved script
+[07:25:59] Alice loaded script
+[07:25:59] Alice started oversight: Readme Test
+[08:10:49] Alice started oversight: CI Pipeline
+[08:10:49] Alice started oversight: Test Op
+[08:10:49] Alice tick #1
+[08:10:49] Alice started oversight: Deploy
+[08:10:49] Alice tick #1
+[08:10:49] Alice started oversight: CI Pipeline
+[08:10:49] Alice tick #1
+[08:10:49] Alice ended oversight: CI Pipeline
+[08:10:49] Alice started oversight: FLUX Conformance
+[08:10:49] Alice tick #1
+[08:10:49] Alice started oversight: My Op
+[08:10:49] Alice started oversight: CI Pipeline
+[08:10:49] Alice started oversight: CI Pipeline
+[08:10:49] Alice saved script
+[08:10:49] Alice loaded script
+[08:10:49] Alice started oversight: Readme Test
+[08:16:07] Alice started oversight: CI Pipeline
+[08:16:07] Alice started oversight: Test Op
+[08:16:07] Alice tick #1
+[08:16:07] Alice started oversight: Deploy
+[08:16:07] Alice tick #1
+[08:16:07] Alice started oversight: CI Pipeline
+[08:16:07] Alice tick #1
+[08:16:07] Alice ended oversight: CI Pipeline
+[08:16:07] Alice started oversight: FLUX Conformance
+[08:16:07] Alice tick #1
+[08:16:07] Alice started oversight: My Op
+[08:16:07] Alice started oversight: CI Pipeline
+[08:16:07] Alice started oversight: CI Pipeline
+[08:16:07] Alice saved script
+[08:16:07] Alice loaded script
+[08:16:07] Alice started oversight: Readme Test
+[08:30:57] Alice started oversight: CI Pipeline
+[08:30:57] Alice started oversight: Test Op
+[08:30:57] Alice tick #1
+[08:30:57] Alice started oversight: Deploy
+[08:30:57] Alice tick #1
+[08:30:57] Alice started oversight: CI Pipeline
+[08:30:57] Alice tick #1
+[08:30:57] Alice ended oversight: CI Pipeline
+[08:30:57] Alice started oversight: FLUX Conformance
+[08:30:57] Alice tick #1
+[08:30:57] Alice started oversight: My Op
+[08:30:57] Alice started oversight: CI Pipeline
+[08:30:57] Alice started oversight: CI Pipeline
+[08:30:57] Alice saved script
+[08:30:57] Alice loaded script
+[08:30:57] Alice started oversight: Readme Test
+[19:10:16] Alice started oversight: CI Pipeline
+[19:10:16] Alice started oversight: Test Op
+[19:10:16] Alice tick #1
+[19:10:16] Alice started oversight: Deploy
+[19:10:16] Alice tick #1
+[19:10:16] Alice started oversight: CI Pipeline
+[19:10:16] Alice tick #1
+[19:10:16] Alice ended oversight: CI Pipeline
+[19:10:16] Alice started oversight: FLUX Conformance
+[19:10:16] Alice tick #1
+[19:10:16] Alice started oversight: My Op
+[19:10:16] Alice started oversight: CI Pipeline
+[19:10:16] Alice started oversight: CI Pipeline
+[19:10:16] Alice saved script
+[19:10:16] Alice loaded script
+[19:10:16] Alice started oversight: Readme Test
+[19:10:33] Alice started oversight: CI Pipeline
+[19:10:33] Alice started oversight: Test Op
+[19:10:33] Alice tick #1
+[19:10:33] Alice started oversight: Deploy
+[19:10:33] Alice tick #1
+[19:10:33] Alice started oversight: CI Pipeline
+[19:10:33] Alice tick #1
+[19:10:33] Alice ended oversight: CI Pipeline
+[19:10:33] Alice started oversight: FLUX Conformance
+[19:10:33] Alice tick #1
+[19:10:33] Alice started oversight: My Op
+[19:10:33] Alice started oversight: CI Pipeline
+[19:10:33] Alice started oversight: CI Pipeline
+[19:10:33] Alice saved script
+[19:10:33] Alice loaded script
+[19:10:33] Alice started oversight: Readme Test
+[21:38:25] Alice started oversight: CI Pipeline
+[21:38:25] Alice started oversight: Test Op
+[21:38:25] Alice tick #1
+[21:38:25] Alice started oversight: Deploy
+[21:38:25] Alice tick #1
+[21:38:25] Alice started oversight: CI Pipeline
+[21:38:25] Alice tick #1
+[21:38:25] Alice ended oversight: CI Pipeline
+[21:38:25] Alice started oversight: FLUX Conformance
+[21:38:25] Alice tick #1
+[21:38:25] Alice started oversight: My Op
+[21:38:25] Alice started oversight: CI Pipeline
+[21:38:25] Alice started oversight: CI Pipeline
+[21:38:25] Alice saved script
+[21:38:25] Alice loaded script
+[21:38:25] Alice started oversight: Readme Test
+[21:39:49] Alice started oversight: CI Pipeline
+[21:39:49] Alice started oversight: Test Op
+[21:39:49] Alice tick #1
+[21:39:49] Alice started oversight: Deploy
+[21:39:49] Alice tick #1
+[21:39:49] Alice started oversight: CI Pipeline
+[21:39:49] Alice tick #1
+[21:39:49] Alice ended oversight: CI Pipeline
+[21:39:49] Alice started oversight: FLUX Conformance
+[21:39:49] Alice tick #1
+[21:39:49] Alice started oversight: My Op
+[21:39:49] Alice started oversight: CI Pipeline
+[21:39:49] Alice started oversight: CI Pipeline
+[21:39:49] Alice saved script
+[21:39:49] Alice loaded script
+[21:39:49] Alice started oversight: Readme Test
+[21:57:35] Alice started oversight: CI Pipeline
+[21:57:35] Alice started oversight: Test Op
+[21:57:35] Alice tick #1
+[21:57:35] Alice started oversight: Deploy
+[21:57:35] Alice tick #1
+[21:57:35] Alice started oversight: CI Pipeline
+[21:57:35] Alice tick #1
+[21:57:35] Alice ended oversight: CI Pipeline
+[21:57:35] Alice started oversight: FLUX Conformance
+[21:57:35] Alice tick #1
+[21:57:35] Alice started oversight: My Op
+[21:57:35] Alice started oversight: CI Pipeline
+[21:57:35] Alice started oversight: CI Pipeline
+[21:57:35] Alice saved script
+[21:57:35] Alice loaded script
+[21:57:35] Alice started oversight: Readme Test
+[21:57:51] Alice started oversight: CI Pipeline
+[21:57:51] Alice started oversight: Test Op
+[21:57:51] Alice tick #1
+[21:57:51] Alice started oversight: Deploy
+[21:57:51] Alice tick #1
+[21:57:51] Alice started oversight: CI Pipeline
+[21:57:51] Alice tick #1
+[21:57:51] Alice ended oversight: CI Pipeline
+[21:57:51] Alice started oversight: FLUX Conformance
+[21:57:51] Alice tick #1
+[21:57:51] Alice started oversight: My Op
+[21:57:51] Alice started oversight: CI Pipeline
+[21:57:51] Alice started oversight: CI Pipeline
+[21:57:51] Alice saved script
+[21:57:51] Alice loaded script
+[21:57:51] Alice started oversight: Readme Test
+[21:58:06] Alice started oversight: CI Pipeline
+[21:58:06] Alice started oversight: Test Op
+[21:58:06] Alice tick #1
+[21:58:06] Alice started oversight: Deploy
+[21:58:06] Alice tick #1
+[21:58:06] Alice started oversight: CI Pipeline
+[21:58:06] Alice tick #1
+[21:58:06] Alice ended oversight: CI Pipeline
+[21:58:06] Alice started oversight: FLUX Conformance
+[21:58:06] Alice tick #1
+[21:58:06] Alice started oversight: My Op
+[21:58:06] Alice started oversight: CI Pipeline
+[21:58:06] Alice started oversight: CI Pipeline
+[21:58:06] Alice saved script
+[21:58:06] Alice loaded script
+[21:58:06] Alice started oversight: Readme Test
+[22:02:39] Alice started oversight: CI Pipeline
+[22:02:39] Alice started oversight: Test Op
+[22:02:39] Alice tick #1
+[22:02:39] Alice started oversight: Deploy
+[22:02:39] Alice tick #1
+[22:02:39] Alice started oversight: CI Pipeline
+[22:02:39] Alice tick #1
+[22:02:39] Alice ended oversight: CI Pipeline
+[22:02:39] Alice started oversight: FLUX Conformance
+[22:02:39] Alice tick #1
+[22:02:39] Alice started oversight: My Op
+[22:02:39] Alice started oversight: CI Pipeline
+[22:02:39] Alice started oversight: CI Pipeline
+[22:02:39] Alice saved script
+[22:02:39] Alice loaded script
+[22:02:39] Alice started oversight: Readme Test

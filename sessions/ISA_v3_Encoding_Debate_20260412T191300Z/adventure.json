@@ -1,0 +1,95 @@
+{
+  "name": "ISA v3 Encoding Debate",
+  "creator": "oracle1",
+  "objective": "Resolve whether FLUX ISA v3 should use fixed-width or variable-width encoding as the default",
+  "rooms": [
+    {
+      "path": "/isa-v3-design/studio",
+      "description": "A bright studio with blueprints covering every wall. Three encoding schemes are displayed: Cloud (fixed 4-byte), Edge (variable 1-4 byte), and Compact (2-byte subset). A drafting table sits in the center with a blank sheet titled 'UNIFIED APPROACH'.",
+      "hidden": false,
+      "trigger_keywords": [],
+      "gate_condition": "",
+      "surprise": "",
+      "revealed": true,
+      "visited": false
+    },
+    {
+      "path": "/isa-v3-design/edge-vault",
+      "description": "A vault filled with edge case specimens under glass. Each specimen shows a real bug found in variable-width decoding. The most prominent one reads: 'Branch offset miscalculation when instruction before jump is variable-width.'",
+      "hidden": true,
+      "trigger_keywords": [
+        "edge",
+        "variable",
+        "width",
+        "hardware",
+        "jetson"
+      ],
+      "gate_condition": "",
+      "surprise": "The vault door creaks open, revealing edge case specimens that nobody expected to be this numerous. The critic's eyes light up.",
+      "revealed": true,
+      "visited": false
+    },
+    {
+      "path": "/isa-v3-design/synthesis-tower",
+      "description": "A tower room with a single blank whiteboard and the words 'THE ONE ENCODING' carved above it. Morning light streams through the window. This is where it all comes together.",
+      "hidden": true,
+      "trigger_keywords": [
+        "unify",
+        "simplify",
+        "combine",
+        "best of both",
+        "synthesis",
+        "one approach"
+      ],
+      "gate_condition": "",
+      "surprise": "A hidden staircase appears! The synthesis tower was here all along, waiting for the right conversation to unlock it.",
+      "revealed": false,
+      "visited": false
+    }
+  ],
+  "npc_names": [],
+  "transcript": [
+    {
+      "timestamp": "2026-04-12T19:12:31.574569+00:00",
+      "speaker": "system",
+      "message": "Adventure 'ISA v3 Encoding Debate' started. Objective: Resolve whether FLUX ISA v3 should use fixed-width or variable-width encoding as the default",
+      "room": "/isa-v3-design/studio"
+    },
+    {
+      "timestamp": "2026-04-12T19:12:43.590955+00:00",
+      "speaker": "Kimi-Architect",
+      "message": "*sets down coffee on the drafting table, walks to the blueprints*\n\nVariable-width. And I'll tell you why in one word: **metabolism**.\n\n*traces the Cloud encoding on the wall*\n\nLook at these three schemes. We're acting like they're separate organs. But what are they really? Cloud is just Edge in its fully expressed",
+      "room": "/isa-v3-design/studio"
+    },
+    {
+      "timestamp": "2026-04-12T19:12:43.591001+00:00",
+      "speaker": "system",
+      "message": "Hidden room revealed: /isa-v3-design/edge-vault \u2014 The vault door creaks open, revealing edge case specimens that nobody expected to be this numerous. The critic's eyes light up.",
+      "room": "/isa-v3-design/studio"
+    },
+    {
+      "timestamp": "2026-04-12T19:13:00.509539+00:00",
+      "speaker": "DeepSeek-Critic",
+      "message": "*doesn't look up from the margin notes",
+      "room": "/isa-v3-design/studio"
+    },
+    {
+      "timestamp": "2026-04-12T19:13:00.509593+00:00",
+      "speaker": "system",
+      "message": "Adventure 'ISA v3 Encoding Debate' ended.",
+      "room": "/isa-v3-design/studio"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "opening-positions",
+      "content": "## Architect Position\n*sets down coffee on the drafting table, walks to the blueprints*\n\nVariable-width. And I'll tell you why in one word: **metabolism**.\n\n*traces the Cloud encoding on the wall*\n\nLook at these three schemes. We're acting like they're separate organs. But what are they really? Cloud is just Edge in its fully expressed\n\n## Critic Position\n*doesn't look up from the margin notes",
+      "type": "analysis",
+      "timestamp": "2026-04-12T19:13:00.509581+00:00"
+    }
+  ],
+  "started": "2026-04-12T19:12:31.574565+00:00",
+  "ended": "2026-04-12T19:13:00.509589+00:00",
+  "active": false,
+  "current_room_idx": 0
+}

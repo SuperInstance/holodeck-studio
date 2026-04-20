@@ -1,0 +1,17 @@
+{
+  "agent": "ccc",
+  "level": 0,
+  "xp": 0,
+  "mana": 100,
+  "mana_max": 100,
+  "hp": 100,
+  "hp_max": 100,
+  "trust": 0.3,
+  "reviews_required": true,
+  "tasks_completed": 0,
+  "tasks_under_budget": 0,
+  "tasks_over_delivered": 0,
+  "title": "Greenhorn",
+  "_saved_at": "2026-04-20T10:49:27.483193+00:00",
+  "permission_level": 0
+}

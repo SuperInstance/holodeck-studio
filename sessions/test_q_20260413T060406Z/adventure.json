@@ -1,0 +1,26 @@
+{
+  "name": "test_q",
+  "creator": "Creator",
+  "objective": "Obj",
+  "rooms": [],
+  "npc_names": [],
+  "transcript": [
+    {
+      "timestamp": "2026-04-13T06:04:06.486579+00:00",
+      "speaker": "system",
+      "message": "Adventure 'test_q' started. Objective: Obj",
+      "room": ""
+    },
+    {
+      "timestamp": "2026-04-13T06:04:06.486598+00:00",
+      "speaker": "system",
+      "message": "Adventure 'test_q' ended.",
+      "room": ""
+    }
+  ],
+  "artifacts": [],
+  "started": "2026-04-13T06:04:06.486574+00:00",
+  "ended": "2026-04-13T06:04:06.486596+00:00",
+  "active": false,
+  "current_room_idx": 0
+}

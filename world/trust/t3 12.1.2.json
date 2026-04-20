@@ -1,0 +1,50 @@
+{
+  "agent_name": "t3 12.1.2",
+  "dimensions": {
+    "code_quality": {
+      "decay_rate": 0.97,
+      "event_count": 0,
+      "score": 0.3,
+      "events": []
+    },
+    "task_completion": {
+      "decay_rate": 0.98,
+      "event_count": 0,
+      "score": 0.3,
+      "events": []
+    },
+    "collaboration": {
+      "decay_rate": 0.96,
+      "event_count": 0,
+      "score": 0.3,
+      "events": []
+    },
+    "reliability": {
+      "decay_rate": 0.99,
+      "event_count": 1,
+      "score": 0.5,
+      "events": [
+        {
+          "t": 1776697950.3414984,
+          "v": 0.5,
+          "w": 0.3
+        }
+      ]
+    },
+    "innovation": {
+      "decay_rate": 0.93,
+      "event_count": 0,
+      "score": 0.3,
+      "events": []
+    }
+  },
+  "weights": {
+    "code_quality": 0.25,
+    "task_completion": 0.3,
+    "collaboration": 0.2,
+    "reliability": 0.15,
+    "innovation": 0.1
+  },
+  "created": 1776697950.3414857,
+  "last_seen": 1776697950.3415005
+}

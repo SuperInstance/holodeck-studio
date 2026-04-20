@@ -1,0 +1,64 @@
+[10:19:23] Client error: Connection lost
+[10:23:07] Client error: Connection lost
+[10:30:45] Client error: Connection lost
+[10:35:04] Client error: Connection lost
+[11:21:02] Client error: [Errno 104] Connection reset by peer
+[11:35:00] Client error: [Errno 104] Connection reset by peer
+[12:34:28] Client error: [Errno 104] Connection reset by peer
+[15:11:45] Client error: 'utf-8' codec can't decode byte 0x81 in position 0: invalid start byte
+[15:11:48] Client error: 'utf-8' codec can't decode byte 0xc0 in position 5: invalid start byte
+[15:11:50] Client error: 'utf-8' codec can't decode byte 0x80 in position 5: invalid start byte
+[15:11:53] Client error: 'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte
+[15:11:58] Client error: 'utf-8' codec can't decode byte 0xac in position 4: invalid start byte
+[15:12:00] Client error: 'utf-8' codec can't decode byte 0xee in position 4: invalid continuation byte
+[15:12:09] Client error: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte
+[15:12:17] Client error: 'utf-8' codec can't decode byte 0xff in position 3: invalid start byte
+[15:12:35] Client error: 'utf-8' codec can't decode byte 0xd7 in position 13: invalid continuation byte
+[15:12:37] Client error: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+[15:12:40] Client error: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+[15:12:42] Client error: 'utf-8' codec can't decode byte 0xa7 in position 13: invalid start byte
+[15:12:45] Client error: 'utf-8' codec can't decode byte 0x81 in position 5: invalid start byte
+[15:12:48] Client error: 'utf-8' codec can't decode byte 0xb4 in position 3: invalid start byte
+[15:12:51] Client error: 'utf-8' codec can't decode byte 0xa4 in position 3: invalid start byte
+[15:12:59] Client error: 'utf-8' codec can't decode byte 0xf9 in position 0: invalid start byte
+[15:13:01] Client error: 'utf-8' codec can't decode byte 0x84 in position 1: invalid start byte
+[15:13:04] Client error: 'utf-8' codec can't decode byte 0x80 in position 12: invalid start byte
+[15:13:14] Client error: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+[15:13:16] Client error: 'utf-8' codec can't decode byte 0x83 in position 1: invalid start byte
+[15:13:20] Client error: 'utf-8' codec can't decode byte 0x80 in position 15: invalid start byte
+[15:13:25] Client error: 'utf-8' codec can't decode byte 0x9c in position 1: invalid start byte
+[15:13:30] Client error: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte
+[15:13:33] Client error: 'utf-8' codec can't decode byte 0xff in position 5: invalid start byte
+[15:13:41] Client error: 'utf-8' codec can't decode byte 0xa0 in position 0: invalid start byte
+[15:13:43] Client error: 'utf-8' codec can't decode byte 0xf1 in position 0: invalid continuation byte
+[15:13:49] Client error: 'utf-8' codec can't decode byte 0x95 in position 17: invalid start byte
+[15:13:54] Client error: 'utf-8' codec can't decode byte 0xff in position 12: invalid start byte
+[15:14:05] Client error: 'utf-8' codec can't decode byte 0x86 in position 0: invalid start byte
+[15:14:07] Client error: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+[15:14:10] Client error: 'utf-8' codec can't decode byte 0xff in position 19: invalid start byte
+[15:14:18] Client error: 'utf-8' codec can't decode byte 0xfd in position 3: invalid start byte
+[15:14:21] Client error: 'utf-8' codec can't decode byte 0xff in position 17: invalid start byte
+[15:14:26] Client error: 'utf-8' codec can't decode byte 0xff in position 28: invalid start byte
+[15:14:32] Client error: 'utf-8' codec can't decode byte 0xc2 in position 1: invalid continuation byte
+[15:14:37] Client error: 'utf-8' codec can't decode byte 0xff in position 8: invalid start byte
+[15:14:42] Client error: 'utf-8' codec can't decode byte 0xfe in position 0: invalid start byte
+[15:14:50] Client error: 'utf-8' codec can't decode byte 0xbc in position 20: invalid start byte
+[15:24:10] Client error: 'utf-8' codec can't decode byte 0x80 in position 5: invalid start byte
+[15:24:15] Client error: 'utf-8' codec can't decode byte 0xc2 in position 0: invalid continuation byte
+[15:24:36] Client error: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte
+[15:24:54] Client error: 'utf-8' codec can't decode byte 0xd7 in position 13: invalid continuation byte
+[15:24:54] Client error: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+[15:24:54] Client error: 'utf-8' codec can't decode byte 0xa7 in position 13: invalid start byte
+[15:24:54] Client error: 'utf-8' codec can't decode byte 0x81 in position 5: invalid start byte
+[15:24:59] Client error: 'utf-8' codec can't decode byte 0xa4 in position 3: invalid start byte
+[15:25:09] Client error: 'utf-8' codec can't decode byte 0x84 in position 1: invalid start byte
+[15:25:14] Client error: 'utf-8' codec can't decode byte 0x80 in position 12: invalid start byte
+[15:25:32] Client error: 'utf-8' codec can't decode byte 0xe0 in position 5: invalid continuation byte
+[15:25:37] Client error: 'utf-8' codec can't decode byte 0xff in position 19: invalid start byte
+[15:25:52] Client error: 'utf-8' codec can't decode byte 0xfd in position 3: invalid start byte
+[15:25:58] Client error: 'utf-8' codec can't decode byte 0xff in position 17: invalid start byte
+[15:26:03] Client error: 'utf-8' codec can't decode byte 0xff in position 28: invalid start byte
+[15:26:33] Client error: 'utf-8' codec can't decode byte 0xa4 in position 0: invalid start byte
+[15:26:43] Client error: 'utf-8' codec can't decode byte 0xc1 in position 16: invalid start byte
+[15:27:12] Client error: 'utf-8' codec can't decode byte 0xa7 in position 13: invalid start byte
+[15:27:37] Client error: 'utf-8' codec can't decode byte 0x80 in position 0: invalid start byte

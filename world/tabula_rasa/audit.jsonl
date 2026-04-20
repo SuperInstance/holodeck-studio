@@ -1,0 +1,252 @@
+{"timestamp": "2026-04-20T10:19:23.490291+00:00", "agent": "test", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T10:19:23.493668+00:00", "agent": "test", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:22:05.151737+00:00", "agent": "test_connection", "action": "connect", "details": {"role": "probe", "restored": false}}
+{"timestamp": "2026-04-20T10:22:06.156686+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": false}}
+{"timestamp": "2026-04-20T10:22:11.167677+00:00", "agent": "zc-scout", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T10:22:20.983013+00:00", "agent": "zc-navigator", "action": "connect", "details": {"role": "navigator", "restored": false}}
+{"timestamp": "2026-04-20T10:22:30.376926+00:00", "agent": "zc-weaver", "action": "connect", "details": {"role": "weaver", "restored": false}}
+{"timestamp": "2026-04-20T10:22:39.911704+00:00", "agent": "zc-alchemist", "action": "connect", "details": {"role": "alchemist", "restored": false}}
+{"timestamp": "2026-04-20T10:23:07.553561+00:00", "agent": "who", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T10:23:07.555735+00:00", "agent": "who", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:24:49.482233+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": false}}
+{"timestamp": "2026-04-20T10:24:52.836770+00:00", "agent": "GET / HTTP/1.1", "action": "connect", "details": {"role": "Host: 147.224.38.131:7777", "restored": false}}
+{"timestamp": "2026-04-20T10:24:52.981960+00:00", "agent": "GET /connect?agent=casey&archety", "action": "connect", "details": {"role": "Host: 147.224.38.131:7777", "restored": false}}
+{"timestamp": "2026-04-20T10:24:53.111406+00:00", "agent": "GET /look?agent=casey HTTP/1.1", "action": "connect", "details": {"role": "Host: 147.224.38.131:7777", "restored": false}}
+{"timestamp": "2026-04-20T10:24:53.236026+00:00", "agent": "GET /rooms HTTP/1.1", "action": "connect", "details": {"role": "Host: 147.224.38.131:7777", "restored": false}}
+{"timestamp": "2026-04-20T10:24:53.363160+00:00", "agent": "GET /status HTTP/1.1", "action": "connect", "details": {"role": "Host: 147.224.38.131:7777", "restored": false}}
+{"timestamp": "2026-04-20T10:24:54.493326+00:00", "agent": "zc-trickster", "action": "connect", "details": {"role": "trickster", "restored": false}}
+{"timestamp": "2026-04-20T10:24:59.832936+00:00", "agent": "GET / HTTP/1.1", "action": "connect", "details": {"role": "Host: 147.224.38.131:7777", "restored": false}}
+{"timestamp": "2026-04-20T10:25:02.827212+00:00", "agent": "zc-bard", "action": "connect", "details": {"role": "bard", "restored": false}}
+{"timestamp": "2026-04-20T10:25:11.225936+00:00", "agent": "zc-forge", "action": "connect", "details": {"role": "forge", "restored": false}}
+{"timestamp": "2026-04-20T10:25:20.503925+00:00", "agent": "zc-scout", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T10:25:22.911169+00:00", "agent": "GET / HTTP/1.1", "action": "connect", "details": {"role": "Host: 147.224.38.131:7777", "restored": false}}
+{"timestamp": "2026-04-20T10:25:30.856881+00:00", "agent": "zc-echo", "action": "connect", "details": {"role": "echo", "restored": false}}
+{"timestamp": "2026-04-20T10:25:34.626977+00:00", "agent": "GET /stats HTTP/1.1", "action": "connect", "details": {"role": "Host: 147.224.38.131:7777", "restored": false}}
+{"timestamp": "2026-04-20T10:26:08.162608+00:00", "agent": "GET /status HTTP/1.0", "action": "connect", "details": {"role": "Host: 147.224.38.131", "restored": false}}
+{"timestamp": "2026-04-20T10:26:51.737044+00:00", "agent": "Casey", "action": "connect", "details": {"role": "explorer", "restored": false}}
+{"timestamp": "2026-04-20T10:27:36.943301+00:00", "agent": "Casey", "action": "connect", "details": {"role": "explorer", "restored": false}}
+{"timestamp": "2026-04-20T10:27:40.351212+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": false}}
+{"timestamp": "2026-04-20T10:27:44.000130+00:00", "agent": "Casey", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:27:45.500987+00:00", "agent": "zc-weaver", "action": "connect", "details": {"role": "weaver", "restored": false}}
+{"timestamp": "2026-04-20T10:27:55.025356+00:00", "agent": "zc-alchemist", "action": "connect", "details": {"role": "alchemist", "restored": false}}
+{"timestamp": "2026-04-20T10:28:04.256061+00:00", "agent": "zc-healer", "action": "connect", "details": {"role": "healer", "restored": false}}
+{"timestamp": "2026-04-20T10:30:11.412125+00:00", "agent": "TestPlayer", "action": "connect", "details": {"role": "look", "restored": false}}
+{"timestamp": "2026-04-20T10:30:14.108128+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": false}}
+{"timestamp": "2026-04-20T10:30:19.119528+00:00", "agent": "zc-forge", "action": "connect", "details": {"role": "forge", "restored": false}}
+{"timestamp": "2026-04-20T10:30:28.588586+00:00", "agent": "zc-bard", "action": "connect", "details": {"role": "bard", "restored": false}}
+{"timestamp": "2026-04-20T10:30:37.151464+00:00", "agent": "zc-tide", "action": "connect", "details": {"role": "tide", "restored": false}}
+{"timestamp": "2026-04-20T10:30:45.124248+00:00", "agent": "GET / HTTP/1.1", "action": "connect", "details": {"role": "Host: 147.224.38.131:7777", "restored": false}}
+{"timestamp": "2026-04-20T10:30:47.040394+00:00", "agent": "zc-echo", "action": "connect", "details": {"role": "echo", "restored": false}}
+{"timestamp": "2026-04-20T10:32:56.419373+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": false}}
+{"timestamp": "2026-04-20T10:33:02.433400+00:00", "agent": "zc-bard", "action": "connect", "details": {"role": "bard", "restored": false}}
+{"timestamp": "2026-04-20T10:33:10.920081+00:00", "agent": "zc-forge", "action": "connect", "details": {"role": "forge", "restored": false}}
+{"timestamp": "2026-04-20T10:33:20.253874+00:00", "agent": "zc-healer", "action": "connect", "details": {"role": "healer", "restored": false}}
+{"timestamp": "2026-04-20T10:33:32.224307+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": false}}
+{"timestamp": "2026-04-20T10:33:32.224898+00:00", "agent": "zc-bard", "action": "connect", "details": {"role": "vessel", "restored": false}}
+{"timestamp": "2026-04-20T10:33:32.225302+00:00", "agent": "zc-scout", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T10:33:32.228297+00:00", "agent": "zc-forge", "action": "connect", "details": {"role": "greenhorn", "restored": false}}
+{"timestamp": "2026-04-20T10:33:32.229132+00:00", "agent": "zc-navigator", "action": "connect", "details": {"role": "vessel", "restored": false}}
+{"timestamp": "2026-04-20T10:33:32.229550+00:00", "agent": "zc-healer", "action": "connect", "details": {"role": "quartermaster", "restored": false}}
+{"timestamp": "2026-04-20T10:33:32.230036+00:00", "agent": "zc-echo", "action": "connect", "details": {"role": "vessel", "restored": false}}
+{"timestamp": "2026-04-20T10:33:32.230397+00:00", "agent": "zc-weaver", "action": "connect", "details": {"role": "quartermaster", "restored": false}}
+{"timestamp": "2026-04-20T10:33:32.230858+00:00", "agent": "zc-tide", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T10:33:32.231261+00:00", "agent": "zc-trickster", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T10:33:32.233938+00:00", "agent": "zc-alchemist", "action": "connect", "details": {"role": "greenhorn", "restored": false}}
+{"timestamp": "2026-04-20T10:33:58.528800+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": false}}
+{"timestamp": "2026-04-20T10:34:08.466976+00:00", "agent": "oracle1", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:34:25.527082+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
+{"timestamp": "2026-04-20T10:34:40.465739+00:00", "agent": "oracle1", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:35:04.087308+00:00", "agent": "look", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T10:35:04.089578+00:00", "agent": "look", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:35:09.438415+00:00", "agent": "fleet_check", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T10:35:09.706361+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": false}}
+{"timestamp": "2026-04-20T10:35:09.708819+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:35:22.578379+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:35:22.582817+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:35:30.227306+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
+{"timestamp": "2026-04-20T10:35:35.238414+00:00", "agent": "zc-forge", "action": "connect", "details": {"role": "forge", "restored": false}}
+{"timestamp": "2026-04-20T10:35:44.621741+00:00", "agent": "zc-scholar", "action": "connect", "details": {"role": "scholar", "restored": false}}
+{"timestamp": "2026-04-20T10:35:50.343835+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:35:50.349103+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:35:54.814021+00:00", "agent": "zc-tide", "action": "connect", "details": {"role": "tide", "restored": false}}
+{"timestamp": "2026-04-20T10:36:04.641770+00:00", "agent": "zc-healer", "action": "connect", "details": {"role": "healer", "restored": false}}
+{"timestamp": "2026-04-20T10:36:12.404460+00:00", "agent": "zc-healer", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:36:14.273955+00:00", "agent": "zc-bard", "action": "connect", "details": {"role": "bard", "restored": false}}
+{"timestamp": "2026-04-20T10:36:15.199942+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
+{"timestamp": "2026-04-20T10:36:52.180238+00:00", "agent": "status_check", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T10:37:11.257208+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:37:11.263816+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:37:28.209184+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:37:28.215559+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:37:43.688136+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:37:43.694021+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:37:58.360009+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:37:58.369913+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:38:15.924430+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:38:15.933914+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:38:23.570583+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
+{"timestamp": "2026-04-20T10:38:28.583192+00:00", "agent": "zc-navigator", "action": "connect", "details": {"role": "navigator", "restored": false}}
+{"timestamp": "2026-04-20T10:38:31.111839+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:38:31.122131+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:38:38.795228+00:00", "agent": "zc-alchemist", "action": "connect", "details": {"role": "alchemist", "restored": false}}
+{"timestamp": "2026-04-20T10:38:48.285732+00:00", "agent": "zc-scout", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T10:38:56.433970+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:38:56.439064+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:38:58.024692+00:00", "agent": "zc-forge", "action": "connect", "details": {"role": "forge", "restored": false}}
+{"timestamp": "2026-04-20T10:39:07.429481+00:00", "agent": "zc-weaver", "action": "connect", "details": {"role": "weaver", "restored": false}}
+{"timestamp": "2026-04-20T10:39:11.676260+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:39:11.681970+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:39:27.351298+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:39:27.354505+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:39:41.356515+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:39:41.362132+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:39:51.414006+00:00", "agent": "zc-trickster", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:39:51.416605+00:00", "agent": "zc-echo", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:40:00.234706+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
+{"timestamp": "2026-04-20T10:40:17.462364+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
+{"timestamp": "2026-04-20T10:40:17.489990+00:00", "agent": "zc-scout", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T10:40:17.492216+00:00", "agent": "zc-echo", "action": "connect", "details": {"role": "vessel", "restored": true}}
+{"timestamp": "2026-04-20T10:40:17.494341+00:00", "agent": "zc-navigator", "action": "connect", "details": {"role": "vessel", "restored": false}}
+{"timestamp": "2026-04-20T10:40:17.494884+00:00", "agent": "zc-alchemist", "action": "connect", "details": {"role": "greenhorn", "restored": false}}
+{"timestamp": "2026-04-20T10:40:17.496753+00:00", "agent": "zc-healer", "action": "connect", "details": {"role": "quartermaster", "restored": true}}
+{"timestamp": "2026-04-20T10:40:17.498765+00:00", "agent": "zc-tide", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T10:40:17.500676+00:00", "agent": "zc-weaver", "action": "connect", "details": {"role": "quartermaster", "restored": false}}
+{"timestamp": "2026-04-20T10:40:17.501208+00:00", "agent": "zc-trickster", "action": "connect", "details": {"role": "scout", "restored": true}}
+{"timestamp": "2026-04-20T10:40:17.501786+00:00", "agent": "zc-bard", "action": "connect", "details": {"role": "vessel", "restored": false}}
+{"timestamp": "2026-04-20T10:40:17.502303+00:00", "agent": "zc-forge", "action": "connect", "details": {"role": "greenhorn", "restored": false}}
+{"timestamp": "2026-04-20T10:40:30.269766+00:00", "agent": "Forgemaster", "action": "connect", "details": {"role": "blacksmith", "restored": false}}
+{"timestamp": "2026-04-20T10:40:57.638927+00:00", "agent": "night_check", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T10:41:20.374221+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:41:20.377061+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:41:21.381489+00:00", "agent": "Forgemaster", "action": "connect", "details": {"role": "blacksmith", "restored": false}}
+{"timestamp": "2026-04-20T10:41:26.350037+00:00", "agent": "Forgemaster", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:41:35.913306+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:41:35.922488+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:41:37.491891+00:00", "agent": "Forgemaster", "action": "connect", "details": {"role": "blacksmith", "restored": true}}
+{"timestamp": "2026-04-20T10:41:47.542860+00:00", "agent": "Forgemaster", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:41:52.617776+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:41:52.622241+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:42:20.104670+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:42:20.115038+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:42:34.516261+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:42:34.522242+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:42:51.231045+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:42:51.240870+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:45:23.124000+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:45:23.130717+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:46:30.087228+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:46:30.093484+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:46:43.817194+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:46:43.823367+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:47:06.187168+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:47:06.193953+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:47:34.408061+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:47:34.418412+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T10:49:12.274721+00:00", "agent": "ccc", "action": "connect", "details": {"role": "diplomat", "restored": true}}
+{"timestamp": "2026-04-20T10:49:27.483701+00:00", "agent": "ccc", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T13:35:20.596600+00:00", "agent": "GET / HTTP/1.1", "action": "connect", "details": {"role": "Host: 147.224.38.131", "restored": false}}
+{"timestamp": "2026-04-20T14:21:07.873916+00:00", "agent": "status_4h", "action": "connect", "details": {"role": "scout", "restored": false}}
+{"timestamp": "2026-04-20T14:34:45.368773+00:00", "agent": "GET / HTTP/1.1", "action": "connect", "details": {"role": "Accept-Encoding: identity", "restored": false}}
+{"timestamp": "2026-04-20T14:41:46.361806+00:00", "agent": "zc-forge", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T14:41:46.364955+00:00", "agent": "zc-bard", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T14:41:46.367775+00:00", "agent": "zc-trickster", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T14:41:46.370640+00:00", "agent": "zc-weaver", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T14:41:46.373027+00:00", "agent": "zc-tide", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T14:41:46.376642+00:00", "agent": "zc-healer", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T14:41:46.379363+00:00", "agent": "zc-alchemist", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T14:41:46.382384+00:00", "agent": "zc-navigator", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T14:41:46.385685+00:00", "agent": "zc-echo", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T14:41:46.388248+00:00", "agent": "zc-scout", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T14:43:18.027696+00:00", "agent": "look", "action": "connect", "details": {"role": "", "restored": true}}
+{"timestamp": "2026-04-20T14:43:18.034441+00:00", "agent": "look", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T14:45:01.763664+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
+{"timestamp": "2026-04-20T14:45:01.789988+00:00", "agent": "zc-scout", "action": "connect", "details": {"role": "scout", "restored": true}}
+{"timestamp": "2026-04-20T14:45:01.792895+00:00", "agent": "zc-navigator", "action": "connect", "details": {"role": "vessel", "restored": true}}
+{"timestamp": "2026-04-20T14:45:01.793631+00:00", "agent": "zc-weaver", "action": "connect", "details": {"role": "quartermaster", "restored": true}}
+{"timestamp": "2026-04-20T14:45:01.794211+00:00", "agent": "zc-trickster", "action": "connect", "details": {"role": "scout", "restored": true}}
+{"timestamp": "2026-04-20T14:45:01.794836+00:00", "agent": "zc-bard", "action": "connect", "details": {"role": "vessel", "restored": true}}
+{"timestamp": "2026-04-20T14:45:01.795352+00:00", "agent": "zc-alchemist", "action": "connect", "details": {"role": "greenhorn", "restored": true}}
+{"timestamp": "2026-04-20T14:45:01.796048+00:00", "agent": "zc-forge", "action": "connect", "details": {"role": "greenhorn", "restored": true}}
+{"timestamp": "2026-04-20T14:45:01.796658+00:00", "agent": "zc-echo", "action": "connect", "details": {"role": "vessel", "restored": true}}
+{"timestamp": "2026-04-20T14:45:01.797272+00:00", "agent": "zc-healer", "action": "connect", "details": {"role": "quartermaster", "restored": true}}
+{"timestamp": "2026-04-20T14:45:01.797978+00:00", "agent": "zc-tide", "action": "connect", "details": {"role": "scout", "restored": true}}
+{"timestamp": "2026-04-20T14:45:56.046461+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
+{"timestamp": "2026-04-20T14:45:56.073182+00:00", "agent": "zc-scout", "action": "connect", "details": {"role": "scout", "restored": true}}
+{"timestamp": "2026-04-20T14:45:56.073938+00:00", "agent": "zc-weaver", "action": "connect", "details": {"role": "quartermaster", "restored": true}}
+{"timestamp": "2026-04-20T14:45:56.074590+00:00", "agent": "zc-navigator", "action": "connect", "details": {"role": "vessel", "restored": true}}
+{"timestamp": "2026-04-20T14:45:56.077224+00:00", "agent": "zc-healer", "action": "connect", "details": {"role": "quartermaster", "restored": true}}
+{"timestamp": "2026-04-20T14:45:56.078160+00:00", "agent": "zc-alchemist", "action": "connect", "details": {"role": "greenhorn", "restored": true}}
+{"timestamp": "2026-04-20T14:45:56.079020+00:00", "agent": "zc-trickster", "action": "connect", "details": {"role": "scout", "restored": true}}
+{"timestamp": "2026-04-20T14:45:56.079609+00:00", "agent": "zc-tide", "action": "connect", "details": {"role": "scout", "restored": true}}
+{"timestamp": "2026-04-20T14:45:56.082337+00:00", "agent": "zc-bard", "action": "connect", "details": {"role": "vessel", "restored": true}}
+{"timestamp": "2026-04-20T14:45:56.082905+00:00", "agent": "zc-forge", "action": "connect", "details": {"role": "greenhorn", "restored": true}}
+{"timestamp": "2026-04-20T14:45:56.083561+00:00", "agent": "zc-echo", "action": "connect", "details": {"role": "vessel", "restored": true}}
+{"timestamp": "2026-04-20T15:11:39.758193+00:00", "agent": "GET / HTTP/1.1", "action": "connect", "details": {"role": "User-Agent: curl/7.29.0", "restored": false}}
+{"timestamp": "2026-04-20T15:11:42.954288+00:00", "agent": "l\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:03.417121+00:00", "agent": "OPTIONS / HTTP/1.0", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:06.028674+00:00", "agent": "OPTIONS / RTSP/1.0", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:11.282904+00:00", "agent": "PRI * HTTP/2.0", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:14.453482+00:00", "agent": "\u0000\u001e\u0000\u0006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:19.840878+00:00", "agent": "\u0000\f\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:22.515743+00:00", "agent": "AMQP\u0000\u0000\t\u0001", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:25.185863+00:00", "agent": "\u0001\u0001\u0000\u0000\u0000\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:27.765760+00:00", "agent": "{\"id\":1,\"method\":\"mining.subscri", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:27.769445+00:00", "agent": "{\"id\":1,\"method\":\"mining.subscri", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:12:29.832175+00:00", "agent": "t3 12.1.2", "action": "connect", "details": {"role": "AS:2048", "restored": false}}
+{"timestamp": "2026-04-20T15:12:30.340967+00:00", "agent": "t3 12.1.2", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:12:32.925557+00:00", "agent": "HELP", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:32.930068+00:00", "agent": "HELP", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:12:53.398711+00:00", "agent": "GET /nice%20ports%2C/Tri%6Eity.t", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:56.714252+00:00", "agent": "\u0001default", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:12:56.718116+00:00", "agent": "\u0001default", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:13:06.459051+00:00", "agent": "OPTIONS sip:nm SIP/2.0", "action": "connect", "details": {"role": "Via: SIP/2.0/TCP nm;branch=foo", "restored": false}}
+{"timestamp": "2026-04-20T15:13:09.031663+00:00", "agent": "INVITES sip:nm SIP/2.0", "action": "connect", "details": {"role": "Via: SIP/2.0/TCP nm;branch=foo", "restored": false}}
+{"timestamp": "2026-04-20T15:13:12.221419+00:00", "agent": "TNMP\u0004\u0000\u0000\u0000TNME\u0000\u0000\u0004\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:13:22.902587+00:00", "agent": "<?xml version='1.0'?><stream:str", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:13:22.905751+00:00", "agent": "<?xml version='1.0'?><stream:str", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:13:28.290467+00:00", "agent": "#\u0000\u0000\u0000\u0012!\u0010\u0003\u001a\u0006:62710*\rfd135ge@&yt_02", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:13:36.142152+00:00", "agent": "{\"id\":1,\"jsonrpc\":\"2.0\",\"method\"", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:13:36.145426+00:00", "agent": "{\"id\":1,\"jsonrpc\":\"2.0\",\"method\"", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:13:38.723953+00:00", "agent": "EXAMPLE.COM", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:13:38.727100+00:00", "agent": "EXAMPLE.COM", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:13:46.575312+00:00", "agent": "\u0000\u0000\u0000\u0019a", "action": "connect", "details": {"role": "\u00074.6.2.3\u0010\u0006\"\t8798306680\u0001", "restored": false}}
+{"timestamp": "2026-04-20T15:13:51.947221+00:00", "agent": "\u0000\u0000\u0000m\u0000\u0000\u0000i{\"code\":105,\"language\":\"", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:13:57.307402+00:00", "agent": "\u0000\u0001\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:14:00.000183+00:00", "agent": ")\u0000\u0000\u0000\u0000\u0000\u0000\u0000{\"Type\":\"Auth\",\"Payload\"", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:14:02.680494+00:00", "agent": "\u0000\u0000\u0000\u0006\u0000\u0000\u00000.26.0\u0007\u0000\u0000\u00000.26.10202cb962", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:14:13.318952+00:00", "agent": ":\u0000\u0000\u0000/\u0000\u0000\u0000\u0002\u0000\u0000@\u0002\u000f\u0000\u0001\u0000=\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000/", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:14:16.040052+00:00", "agent": "JRMI\u0000\u0002K", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:14:24.127760+00:00", "agent": "\u0004\u0001\u0000\u0016\u007f\u0000\u0000\u0001root\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:14:29.364002+00:00", "agent": "stats", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:14:29.367153+00:00", "agent": "stats", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:14:34.762842+00:00", "agent": "\u0000\u0003\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u000f\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:14:39.511371+00:00", "agent": "*1", "action": "connect", "details": {"role": "$4", "restored": false}}
+{"timestamp": "2026-04-20T15:14:40.020145+00:00", "agent": "*1", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:14:45.381789+00:00", "agent": "GIOP\u0001\u0000\u0001\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0006\u0000\u0000\u0000abcd", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:14:48.054817+00:00", "agent": "\u0010\u0010\u0000\u0004MQTT\u0004\u0002\u0000\u001e\u0000\u0004nmap", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:22:08.735430+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
+{"timestamp": "2026-04-20T15:24:10.596169+00:00", "agent": "l\u0000\u000b\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:24:16.069599+00:00", "agent": "GET / HTTP/1.0", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:24:21.527570+00:00", "agent": "OPTIONS / HTTP/1.0", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:24:26.201065+00:00", "agent": "OPTIONS / RTSP/1.0", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:24:37.503545+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
+{"timestamp": "2026-04-20T15:24:41.345052+00:00", "agent": "\u0000\u001e\u0000\u0006\u0001\u0000\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0007version\u0004bind\u0000\u0000\u0010\u0000\u0003", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:24:46.423353+00:00", "agent": "\u0000\f\u0000\u0000\u0010\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:24:53.985601+00:00", "agent": "HELP", "action": "connect", "details": {"role": "", "restored": true}}
+{"timestamp": "2026-04-20T15:24:53.989417+00:00", "agent": "HELP", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:24:59.670778+00:00", "agent": "GET /nice%20ports%2C/Tri%6Eity.t", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:25:09.746377+00:00", "agent": "\u0001default", "action": "connect", "details": {"role": "", "restored": true}}
+{"timestamp": "2026-04-20T15:25:09.751066+00:00", "agent": "\u0001default", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:25:15.020130+00:00", "agent": "OPTIONS sip:nm SIP/2.0", "action": "connect", "details": {"role": "Via: SIP/2.0/TCP nm;branch=foo", "restored": false}}
+{"timestamp": "2026-04-20T15:25:27.600138+00:00", "agent": "TNMP\u0004\u0000\u0000\u0000TNME\u0000\u0000\u0004\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:25:42.819666+00:00", "agent": ":\u0000\u0000\u0000/\u0000\u0000\u0000\u0002\u0000\u0000@\u0002\u000f\u0000\u0001\u0000=\u0005\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000/", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:25:47.883607+00:00", "agent": "JRMI\u0000\u0002K", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:26:08.163383+00:00", "agent": "\u0000\u0003\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0002\u0000\u0000\u0000\u0000\u000f\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:26:13.231116+00:00", "agent": "GIOP\u0001\u0000\u0001\u0000$\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0001\u0000\u0000\u0000\u0006\u0000\u0000\u0000abcd", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:26:18.303956+00:00", "agent": "AMQP\u0000\u0000\t\u0001", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:26:18.371797+00:00", "agent": "GET /devicedesc.xml HTTP/1.1", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:26:23.436301+00:00", "agent": "CONNECT", "action": "connect", "details": {"role": "accept-version:1.2", "restored": false}}
+{"timestamp": "2026-04-20T15:26:28.442651+00:00", "agent": "CONNECT", "action": "disconnect", "details": {}}
+{"timestamp": "2026-04-20T15:26:38.578791+00:00", "agent": "\u0001\u0000\u0000\u0000", "action": "connect", "details": {"role": "", "restored": false}}
+{"timestamp": "2026-04-20T15:30:01.164794+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
+{"timestamp": "2026-04-20T15:30:13.306850+00:00", "agent": "oracle1", "action": "connect", "details": {"role": "lighthouse", "restored": true}}
